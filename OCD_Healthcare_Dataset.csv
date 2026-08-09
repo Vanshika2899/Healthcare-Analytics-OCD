@@ -1,0 +1,1001 @@
+Patient ID,Age,Gender,Ethnicity,Marital Status,Occupation,OCD Diagnosis Date,Obsession Type,Compulsion Type,Y-BOCS Score (Obsessions),Y-BOCS Score (Compulsions),Y-BOCS Total Score
+100001,47,Female,Black,Married,Doctor,15-01-2023,Harm,Checking,15,14,29
+100002,62,Male,Hispanic,Single,Teacher,18-01-2024,Symmetry,Ordering,14,14,28
+100003,45,Female,Black,Married,Analyst,08-10-2024,Contamination,Cleaning,17,19,36
+100004,62,Female,Black,Married,Accountant,23-07-2024,Symmetry,Ordering,17,17,34
+100005,25,Female,White,Married,Analyst,12-02-2024,Contamination,Cleaning,18,18,36
+100006,34,Male,Asian,Single,Designer,12-11-2023,Sexual,Mental Rituals,23,25,48
+100007,39,Female,White,Married,Manager,22-05-2024,Religious,Praying,22,21,43
+100008,35,Male,White,Married,Nurse,25-10-2025,Harm,Checking,16,18,34
+100009,58,Male,Hispanic,Single,Manager,28-04-2023,Symmetry,Ordering,18,19,37
+100010,53,Male,Black,Single,Analyst,16-02-2023,Symmetry,Ordering,18,17,35
+100011,28,Male,Asian,Divorced,Engineer,30-09-2023,Contamination,Cleaning,18,16,34
+100012,21,Male,Other,Divorced,Manager,22-10-2023,Contamination,Cleaning,22,24,46
+100013,39,Female,Hispanic,Single,Manager,10-05-2025,Harm,Checking,15,16,31
+100014,41,Male,White,Single,Analyst,23-08-2024,Contamination,Cleaning,19,20,39
+100015,41,Male,Hispanic,Married,Teacher,20-06-2023,Contamination,Cleaning,22,24,46
+100016,51,Female,Hispanic,Single,Analyst,06-05-2025,Religious,Praying,22,22,44
+100017,49,Male,White,Married,Designer,13-04-2023,Aggressive,Checking,20,21,41
+100018,43,Female,Black,Married,Teacher,27-08-2023,Harm,Checking,19,19,38
+100019,38,Male,White,Married,Student,14-10-2024,Contamination,Cleaning,22,23,45
+100020,54,Female,Hispanic,Single,Student,05-04-2025,Sexual,Mental Rituals,22,23,45
+100021,20,Female,Asian,Single,Accountant,15-04-2024,Contamination,Cleaning,22,20,42
+100022,46,Female,Asian,Divorced,Analyst,12-12-2024,Contamination,Cleaning,17,17,34
+100023,47,Male,Hispanic,Single,Accountant,23-01-2023,Harm,Checking,17,16,33
+100024,51,Female,Other,Single,Manager,26-08-2023,Symmetry,Ordering,20,20,40
+100025,50,Female,Asian,Married,Accountant,29-08-2025,Aggressive,Checking,21,22,43
+100026,26,Male,Hispanic,Divorced,Analyst,11-01-2024,Contamination,Cleaning,19,19,38
+100027,46,Male,Asian,Married,Doctor,14-04-2023,Sexual,Mental Rituals,19,19,38
+100028,19,Male,Black,Single,Analyst,07-01-2023,Religious,Praying,16,16,32
+100029,20,Male,Black,Married,Teacher,20-11-2023,Contamination,Cleaning,19,18,37
+100030,42,Female,Asian,Single,Designer,12-11-2024,Religious,Praying,16,16,32
+100031,38,Male,Asian,Single,Teacher,30-06-2024,Contamination,Cleaning,21,22,43
+100032,52,Male,White,Single,Student,02-05-2025,Harm,Checking,15,17,32
+100033,59,Male,Other,Married,Accountant,15-03-2023,Harm,Checking,20,18,38
+100034,41,Female,Hispanic,Single,Manager,16-01-2024,Contamination,Cleaning,22,20,42
+100035,46,Female,Other,Divorced,Sales,20-05-2025,Harm,Checking,16,16,32
+100036,27,Male,White,Married,Manager,24-08-2024,Somatic,Reassurance Seeking,19,19,38
+100037,30,Female,Asian,Married,Teacher,05-04-2025,Somatic,Reassurance Seeking,16,16,32
+100038,44,Female,White,Married,Designer,25-06-2024,Religious,Praying,18,17,35
+100039,37,Female,Other,Divorced,Nurse,10-04-2025,Contamination,Cleaning,22,21,43
+100040,35,Male,Other,Married,Analyst,27-11-2025,Symmetry,Ordering,14,14,28
+100041,53,Male,Asian,Married,Engineer,02-04-2024,Religious,Praying,21,23,44
+100042,49,Female,Other,Single,Student,26-03-2023,Symmetry,Ordering,15,17,32
+100043,35,Male,Asian,Married,Student,03-02-2025,Sexual,Mental Rituals,19,19,38
+100044,33,Female,White,Married,Sales,25-10-2024,Contamination,Cleaning,22,22,44
+100045,33,Female,White,Single,Teacher,20-12-2023,Sexual,Mental Rituals,19,21,40
+100046,27,Male,White,Single,Designer,23-05-2025,Symmetry,Ordering,18,17,35
+100047,32,Male,Other,Divorced,Manager,18-08-2025,Harm,Checking,19,21,40
+100048,32,Male,Asian,Single,Nurse,03-09-2023,Symmetry,Ordering,18,16,34
+100049,62,Male,Other,Married,Manager,03-07-2025,Sexual,Mental Rituals,22,20,42
+100050,52,Female,White,Single,Nurse,01-08-2025,Somatic,Reassurance Seeking,17,15,32
+100051,52,Male,Hispanic,Married,Designer,25-12-2023,Somatic,Reassurance Seeking,15,17,32
+100052,47,Female,Black,Single,Manager,22-07-2024,Aggressive,Checking,20,20,40
+100053,24,Female,Asian,Married,Engineer,25-04-2023,Harm,Checking,21,21,42
+100054,27,Male,Hispanic,Divorced,Analyst,27-12-2024,Harm,Checking,21,22,43
+100055,34,Male,Asian,Married,Designer,25-04-2024,Religious,Praying,21,23,44
+100056,46,Female,Hispanic,Single,Accountant,01-05-2024,Aggressive,Checking,22,20,42
+100057,62,Male,Black,Married,Analyst,26-01-2025,Contamination,Cleaning,19,18,37
+100058,36,Male,Black,Married,Accountant,12-03-2025,Contamination,Cleaning,18,19,37
+100059,39,Female,Hispanic,Single,Teacher,13-06-2025,Sexual,Mental Rituals,20,21,41
+100060,25,Male,Black,Married,Teacher,29-10-2025,Sexual,Mental Rituals,21,23,44
+100061,33,Male,White,Single,Analyst,08-10-2024,Symmetry,Ordering,15,13,28
+100062,20,Female,Asian,Married,Doctor,30-11-2023,Symmetry,Ordering,17,18,35
+100063,40,Female,Asian,Married,Nurse,11-05-2024,Symmetry,Ordering,20,20,40
+100064,64,Female,Black,Married,Sales,05-08-2025,Harm,Checking,19,21,40
+100065,65,Male,Black,Divorced,Teacher,17-07-2025,Aggressive,Checking,20,22,42
+100066,39,Female,Other,Married,Designer,21-06-2023,Symmetry,Ordering,16,17,33
+100067,42,Male,Hispanic,Married,Manager,16-04-2025,Contamination,Cleaning,23,23,46
+100068,29,Male,Hispanic,Married,Manager,05-10-2024,Symmetry,Ordering,18,20,38
+100069,52,Female,Asian,Single,Sales,07-07-2025,Contamination,Cleaning,17,18,35
+100070,54,Male,Hispanic,Single,Designer,31-07-2023,Sexual,Mental Rituals,21,21,42
+100071,52,Female,Asian,Single,Nurse,12-11-2025,Symmetry,Ordering,17,18,35
+100072,24,Male,Hispanic,Single,Teacher,05-12-2024,Sexual,Mental Rituals,24,24,48
+100073,65,Female,Asian,Single,Student,26-10-2025,Sexual,Mental Rituals,18,17,35
+100074,38,Male,White,Married,Doctor,17-05-2023,Harm,Checking,17,19,36
+100075,40,Male,Asian,Single,Manager,29-12-2024,Contamination,Cleaning,21,21,42
+100076,41,Female,Hispanic,Divorced,Nurse,15-08-2023,Contamination,Cleaning,18,20,38
+100077,33,Female,Asian,Single,Doctor,14-05-2025,Harm,Checking,18,17,35
+100078,29,Male,White,Divorced,Designer,23-03-2023,Religious,Praying,19,17,36
+100079,40,Male,White,Married,Sales,12-02-2024,Harm,Checking,21,19,40
+100080,63,Female,Hispanic,Married,Teacher,06-04-2025,Contamination,Cleaning,19,18,37
+100081,22,Female,Asian,Single,Doctor,12-11-2023,Contamination,Cleaning,23,22,45
+100082,40,Male,Asian,Single,Teacher,01-05-2024,Contamination,Cleaning,20,22,42
+100083,44,Female,White,Married,Analyst,05-01-2025,Harm,Checking,19,20,39
+100084,48,Male,Black,Married,Teacher,23-06-2025,Harm,Checking,15,13,28
+100085,47,Female,Asian,Single,Manager,01-04-2025,Somatic,Reassurance Seeking,17,18,35
+100086,52,Female,Asian,Married,Designer,09-03-2024,Religious,Praying,21,19,40
+100087,21,Female,White,Married,Analyst,17-11-2024,Harm,Checking,20,22,42
+100088,45,Female,White,Single,Doctor,13-06-2024,Harm,Checking,17,16,33
+100089,44,Female,Asian,Married,Sales,18-10-2025,Aggressive,Checking,20,22,42
+100090,27,Female,White,Single,Teacher,08-11-2024,Aggressive,Checking,21,21,42
+100091,48,Female,Asian,Divorced,Designer,18-08-2024,Sexual,Mental Rituals,24,24,48
+100092,59,Male,Hispanic,Married,Sales,28-03-2023,Symmetry,Ordering,16,16,32
+100093,61,Male,Asian,Single,Nurse,20-02-2025,Contamination,Cleaning,19,18,37
+100094,62,Male,Hispanic,Married,Sales,13-04-2025,Contamination,Cleaning,21,22,43
+100095,53,Female,Hispanic,Single,Nurse,26-02-2023,Religious,Praying,17,16,33
+100096,20,Male,Black,Married,Nurse,19-12-2023,Symmetry,Ordering,14,14,28
+100097,34,Female,Black,Single,Sales,26-07-2024,Symmetry,Ordering,15,17,32
+100098,46,Female,White,Single,Sales,11-03-2024,Harm,Checking,20,19,39
+100099,54,Female,Asian,Single,Analyst,22-09-2025,Harm,Checking,17,18,35
+100100,61,Male,White,Divorced,Analyst,09-11-2023,Harm,Checking,18,18,36
+100101,19,Male,White,Single,Designer,27-01-2024,Somatic,Reassurance Seeking,19,21,40
+100102,58,Male,Hispanic,Single,Sales,03-09-2024,Symmetry,Ordering,20,21,41
+100103,41,Female,Black,Married,Student,12-02-2023,Contamination,Cleaning,19,18,37
+100104,57,Female,Asian,Married,Engineer,06-10-2024,Harm,Checking,20,20,40
+100105,29,Female,White,Single,Designer,04-05-2023,Harm,Checking,18,19,37
+100106,41,Female,White,Married,Doctor,10-04-2023,Harm,Checking,21,21,42
+100107,20,Male,Hispanic,Married,Nurse,11-12-2024,Contamination,Cleaning,18,18,36
+100108,65,Female,Asian,Divorced,Engineer,25-08-2025,Somatic,Reassurance Seeking,16,18,34
+100109,47,Female,Black,Single,Sales,18-03-2023,Religious,Praying,16,18,34
+100110,27,Male,Asian,Married,Student,06-11-2024,Contamination,Cleaning,20,20,40
+100111,22,Male,Asian,Single,Accountant,04-11-2023,Sexual,Mental Rituals,19,21,40
+100112,47,Female,White,Single,Doctor,07-11-2023,Sexual,Mental Rituals,20,20,40
+100113,48,Male,Asian,Married,Sales,30-01-2023,Sexual,Mental Rituals,18,20,38
+100114,22,Female,White,Single,Student,27-10-2025,Religious,Praying,19,21,40
+100115,52,Female,Hispanic,Married,Sales,08-11-2025,Contamination,Cleaning,20,22,42
+100116,19,Male,Hispanic,Single,Analyst,16-03-2023,Aggressive,Checking,24,26,50
+100117,59,Male,Other,Single,Designer,28-07-2024,Contamination,Cleaning,18,17,35
+100118,48,Male,Black,Divorced,Sales,02-07-2023,Aggressive,Checking,22,22,44
+100119,62,Female,Black,Single,Doctor,17-10-2024,Sexual,Mental Rituals,20,21,41
+100120,58,Male,White,Married,Student,19-12-2024,Contamination,Cleaning,18,20,38
+100121,24,Male,Asian,Married,Teacher,02-01-2024,Contamination,Cleaning,21,19,40
+100122,53,Male,Asian,Single,Manager,13-08-2025,Aggressive,Checking,24,26,50
+100123,42,Female,Black,Married,Teacher,07-05-2025,Contamination,Cleaning,20,18,38
+100124,33,Female,Other,Married,Teacher,20-07-2024,Contamination,Cleaning,22,24,46
+100125,19,Female,White,Married,Doctor,08-06-2024,Symmetry,Ordering,19,17,36
+100126,24,Female,Black,Single,Manager,24-01-2025,Aggressive,Checking,21,21,42
+100127,61,Female,Other,Married,Nurse,30-03-2023,Sexual,Mental Rituals,23,24,47
+100128,44,Female,Other,Married,Teacher,25-03-2023,Contamination,Cleaning,19,17,36
+100129,33,Female,White,Divorced,Accountant,14-12-2024,Harm,Checking,18,18,36
+100130,20,Female,Other,Single,Engineer,09-02-2025,Contamination,Cleaning,22,21,43
+100131,51,Male,Hispanic,Single,Engineer,11-04-2023,Contamination,Cleaning,23,23,46
+100132,46,Female,Hispanic,Married,Doctor,27-03-2024,Contamination,Cleaning,18,16,34
+100133,45,Female,Asian,Single,Manager,09-10-2024,Harm,Checking,18,17,35
+100134,60,Male,Hispanic,Divorced,Accountant,05-08-2024,Sexual,Mental Rituals,21,19,40
+100135,31,Female,Asian,Married,Student,11-07-2023,Contamination,Cleaning,18,16,34
+100136,61,Female,Hispanic,Married,Engineer,12-07-2025,Religious,Praying,20,22,42
+100137,21,Male,Hispanic,Single,Doctor,01-09-2025,Contamination,Cleaning,20,19,39
+100138,51,Female,Black,Single,Sales,25-01-2023,Religious,Praying,21,22,43
+100139,28,Male,Asian,Divorced,Doctor,29-05-2024,Harm,Checking,15,14,29
+100140,46,Male,White,Single,Sales,27-03-2025,Contamination,Cleaning,17,16,33
+100141,48,Male,White,Married,Engineer,20-05-2024,Contamination,Cleaning,19,17,36
+100142,19,Male,Asian,Single,Sales,04-10-2023,Contamination,Cleaning,18,20,38
+100143,61,Female,Other,Single,Engineer,29-07-2025,Contamination,Cleaning,21,21,42
+100144,51,Female,Hispanic,Married,Nurse,05-11-2024,Harm,Checking,17,17,34
+100145,18,Female,Asian,Married,Engineer,02-09-2025,Aggressive,Checking,23,25,48
+100146,46,Female,White,Single,Sales,31-05-2025,Religious,Praying,21,21,42
+100147,57,Female,Asian,Divorced,Sales,29-03-2023,Aggressive,Checking,25,27,52
+100148,38,Female,White,Married,Engineer,30-04-2024,Harm,Checking,19,21,40
+100149,24,Female,Asian,Single,Student,26-11-2023,Harm,Checking,21,20,41
+100150,18,Male,Black,Single,Manager,26-10-2024,Sexual,Mental Rituals,24,26,50
+100151,50,Female,Other,Single,Teacher,18-12-2024,Sexual,Mental Rituals,24,24,48
+100152,54,Male,White,Married,Sales,19-06-2024,Sexual,Mental Rituals,23,22,45
+100153,21,Male,Asian,Married,Engineer,03-11-2024,Harm,Checking,16,18,34
+100154,20,Female,White,Single,Designer,02-04-2024,Symmetry,Ordering,14,14,28
+100155,29,Male,Hispanic,Single,Engineer,13-05-2024,Contamination,Cleaning,18,17,35
+100156,28,Female,Black,Single,Designer,28-05-2025,Symmetry,Ordering,20,21,41
+100157,56,Male,Other,Married,Student,09-11-2025,Aggressive,Checking,22,24,46
+100158,55,Female,Asian,Married,Analyst,06-05-2024,Symmetry,Ordering,19,18,37
+100159,41,Female,White,Single,Accountant,10-02-2024,Symmetry,Ordering,19,19,38
+100160,53,Male,Hispanic,Married,Analyst,04-07-2024,Sexual,Mental Rituals,24,25,49
+100161,43,Female,Asian,Married,Designer,06-09-2024,Aggressive,Checking,20,20,40
+100162,54,Male,Asian,Married,Accountant,22-04-2024,Symmetry,Ordering,18,17,35
+100163,31,Female,Black,Married,Manager,04-08-2023,Sexual,Mental Rituals,20,19,39
+100164,20,Male,Asian,Single,Student,08-12-2025,Contamination,Cleaning,22,23,45
+100165,27,Female,Black,Married,Accountant,23-08-2025,Harm,Checking,20,21,41
+100166,62,Male,Asian,Single,Accountant,17-01-2025,Contamination,Cleaning,23,23,46
+100167,42,Male,Asian,Single,Engineer,02-05-2025,Aggressive,Checking,24,22,46
+100168,44,Female,Hispanic,Single,Designer,21-06-2023,Harm,Checking,16,18,34
+100169,39,Male,Asian,Single,Student,10-06-2024,Symmetry,Ordering,19,19,38
+100170,51,Female,White,Divorced,Student,10-11-2023,Aggressive,Checking,22,24,46
+100171,56,Male,Asian,Single,Accountant,11-12-2025,Symmetry,Ordering,15,16,31
+100172,40,Female,Asian,Single,Analyst,22-11-2023,Harm,Checking,20,21,41
+100173,25,Female,White,Single,Analyst,04-10-2023,Harm,Checking,19,21,40
+100174,37,Male,Black,Married,Designer,06-05-2024,Contamination,Cleaning,18,17,35
+100175,43,Female,White,Single,Student,12-03-2023,Contamination,Cleaning,21,21,42
+100176,39,Male,Asian,Married,Student,26-07-2023,Harm,Checking,18,18,36
+100177,45,Male,Black,Single,Engineer,04-06-2024,Contamination,Cleaning,20,19,39
+100178,33,Female,Other,Married,Manager,30-06-2024,Aggressive,Checking,23,22,45
+100179,36,Female,White,Married,Student,25-06-2023,Somatic,Reassurance Seeking,18,16,34
+100180,64,Female,Asian,Married,Teacher,29-09-2025,Harm,Checking,17,15,32
+100181,65,Male,Black,Divorced,Designer,12-01-2024,Contamination,Cleaning,19,17,36
+100182,31,Female,Asian,Single,Doctor,09-05-2025,Contamination,Cleaning,20,19,39
+100183,63,Male,Black,Married,Nurse,18-10-2024,Religious,Praying,16,18,34
+100184,21,Female,White,Single,Analyst,13-06-2023,Contamination,Cleaning,17,15,32
+100185,32,Female,Asian,Single,Student,03-06-2025,Symmetry,Ordering,15,15,30
+100186,59,Female,Black,Divorced,Analyst,06-02-2023,Symmetry,Ordering,19,18,37
+100187,21,Male,Other,Married,Manager,11-08-2024,Contamination,Cleaning,18,20,38
+100188,48,Male,Hispanic,Married,Analyst,10-09-2025,Contamination,Cleaning,20,19,39
+100189,36,Female,Asian,Single,Student,23-05-2025,Contamination,Cleaning,23,23,46
+100190,31,Female,White,Single,Doctor,21-10-2024,Harm,Checking,21,21,42
+100191,38,Male,Other,Married,Student,24-01-2024,Contamination,Cleaning,17,16,33
+100192,19,Female,White,Single,Doctor,15-12-2024,Harm,Checking,21,22,43
+100193,38,Female,Black,Single,Engineer,08-07-2023,Symmetry,Ordering,16,18,34
+100194,61,Male,Asian,Married,Nurse,16-07-2023,Symmetry,Ordering,15,16,31
+100195,33,Male,White,Single,Manager,18-04-2023,Aggressive,Checking,19,20,39
+100196,30,Female,Asian,Single,Nurse,05-10-2025,Aggressive,Checking,25,24,49
+100197,26,Female,Asian,Married,Nurse,17-03-2024,Symmetry,Ordering,17,15,32
+100198,65,Female,Hispanic,Single,Accountant,02-11-2024,Contamination,Cleaning,17,16,33
+100199,44,Female,White,Married,Manager,22-04-2025,Aggressive,Checking,19,21,40
+100200,37,Male,White,Single,Doctor,23-03-2023,Harm,Checking,17,16,33
+100201,36,Male,Other,Divorced,Analyst,06-12-2023,Symmetry,Ordering,19,18,37
+100202,42,Male,Black,Married,Designer,26-03-2024,Contamination,Cleaning,20,19,39
+100203,57,Female,Asian,Married,Engineer,18-01-2024,Harm,Checking,19,21,40
+100204,20,Male,Hispanic,Single,Teacher,24-02-2025,Religious,Praying,17,18,35
+100205,28,Female,Black,Single,Manager,21-06-2025,Contamination,Cleaning,19,17,36
+100206,37,Male,Asian,Single,Teacher,13-07-2024,Harm,Checking,16,17,33
+100207,22,Female,Asian,Married,Accountant,21-01-2025,Symmetry,Ordering,14,15,29
+100208,28,Female,White,Single,Nurse,20-01-2025,Aggressive,Checking,24,25,49
+100209,64,Male,Asian,Married,Engineer,16-05-2025,Harm,Checking,17,16,33
+100210,44,Male,Other,Single,Accountant,09-05-2025,Contamination,Cleaning,17,18,35
+100211,57,Female,Asian,Married,Student,23-07-2024,Contamination,Cleaning,21,21,42
+100212,36,Female,Hispanic,Married,Analyst,01-01-2023,Aggressive,Checking,21,22,43
+100213,19,Male,White,Single,Nurse,02-07-2024,Harm,Checking,16,15,31
+100214,30,Female,Hispanic,Single,Teacher,14-02-2023,Religious,Praying,22,22,44
+100215,37,Male,Other,Divorced,Nurse,03-01-2024,Contamination,Cleaning,20,18,38
+100216,56,Female,Hispanic,Married,Accountant,07-10-2025,Aggressive,Checking,23,21,44
+100217,64,Female,White,Single,Sales,13-09-2024,Religious,Praying,17,15,32
+100218,34,Female,Black,Divorced,Doctor,05-09-2024,Harm,Checking,19,17,36
+100219,41,Male,Asian,Married,Designer,23-01-2024,Contamination,Cleaning,17,19,36
+100220,26,Male,Asian,Married,Manager,22-04-2025,Symmetry,Ordering,15,16,31
+100221,44,Female,Asian,Married,Designer,25-08-2025,Contamination,Cleaning,17,16,33
+100222,45,Male,White,Divorced,Accountant,16-10-2025,Symmetry,Ordering,16,14,30
+100223,49,Male,Asian,Single,Doctor,11-03-2024,Harm,Checking,20,18,38
+100224,34,Male,Asian,Married,Sales,10-09-2023,Contamination,Cleaning,20,19,39
+100225,33,Male,Black,Married,Student,07-04-2024,Contamination,Cleaning,21,22,43
+100226,38,Female,Asian,Single,Analyst,17-10-2024,Harm,Checking,20,21,41
+100227,61,Female,Black,Married,Sales,23-10-2023,Contamination,Cleaning,18,17,35
+100228,36,Female,Black,Single,Teacher,25-11-2023,Symmetry,Ordering,16,14,30
+100229,39,Male,Asian,Married,Analyst,24-03-2024,Contamination,Cleaning,21,20,41
+100230,34,Male,Hispanic,Married,Engineer,04-05-2025,Contamination,Cleaning,22,24,46
+100231,59,Female,Hispanic,Married,Student,05-03-2024,Sexual,Mental Rituals,20,19,39
+100232,45,Female,Asian,Single,Manager,31-10-2023,Religious,Praying,17,17,34
+100233,24,Female,White,Single,Accountant,29-01-2024,Aggressive,Checking,21,20,41
+100234,49,Female,Asian,Single,Doctor,31-03-2023,Contamination,Cleaning,23,24,47
+100235,37,Male,Hispanic,Married,Engineer,03-07-2024,Contamination,Cleaning,17,19,36
+100236,60,Female,Other,Single,Engineer,25-04-2025,Contamination,Cleaning,20,20,40
+100237,34,Female,Hispanic,Single,Nurse,13-08-2025,Harm,Checking,21,23,44
+100238,64,Female,White,Married,Accountant,21-04-2025,Harm,Checking,18,20,38
+100239,27,Female,Asian,Single,Analyst,30-10-2024,Harm,Checking,15,14,29
+100240,63,Female,Hispanic,Married,Designer,26-04-2025,Religious,Praying,18,17,35
+100241,38,Male,White,Single,Sales,29-04-2025,Contamination,Cleaning,20,21,41
+100242,22,Male,Asian,Married,Teacher,02-12-2025,Harm,Checking,17,19,36
+100243,39,Female,Asian,Single,Analyst,18-01-2023,Somatic,Reassurance Seeking,14,12,26
+100244,30,Male,Black,Single,Analyst,16-02-2023,Symmetry,Ordering,17,18,35
+100245,43,Female,Black,Married,Designer,08-03-2025,Symmetry,Ordering,18,20,38
+100246,56,Female,Asian,Married,Student,15-08-2025,Aggressive,Checking,20,21,41
+100247,49,Male,Asian,Single,Engineer,26-09-2023,Aggressive,Checking,20,19,39
+100248,27,Female,Asian,Single,Student,14-06-2025,Symmetry,Ordering,14,12,26
+100249,34,Male,White,Single,Doctor,22-12-2024,Religious,Praying,19,17,36
+100250,31,Male,White,Single,Teacher,10-12-2024,Harm,Checking,18,18,36
+100251,33,Female,Other,Single,Nurse,25-11-2025,Religious,Praying,17,18,35
+100252,34,Female,Asian,Married,Doctor,29-07-2025,Aggressive,Checking,21,20,41
+100253,49,Male,Black,Divorced,Student,04-06-2023,Harm,Checking,18,20,38
+100254,34,Male,Black,Married,Teacher,12-12-2023,Harm,Checking,17,18,35
+100255,49,Female,Hispanic,Single,Manager,10-10-2024,Harm,Checking,21,19,40
+100256,34,Female,Hispanic,Married,Student,13-06-2023,Symmetry,Ordering,14,13,27
+100257,26,Male,Hispanic,Single,Doctor,18-04-2024,Religious,Praying,19,20,39
+100258,53,Male,Asian,Married,Sales,17-07-2025,Religious,Praying,18,17,35
+100259,43,Male,White,Married,Engineer,10-11-2025,Contamination,Cleaning,23,24,47
+100260,28,Male,Black,Divorced,Doctor,30-03-2025,Contamination,Cleaning,21,21,42
+100261,31,Male,Asian,Single,Student,21-06-2025,Harm,Checking,18,18,36
+100262,45,Female,Asian,Single,Doctor,10-12-2024,Sexual,Mental Rituals,19,21,40
+100263,48,Male,Black,Married,Engineer,01-06-2024,Symmetry,Ordering,15,15,30
+100264,33,Female,Asian,Single,Accountant,12-10-2023,Aggressive,Checking,22,21,43
+100265,19,Male,Asian,Married,Sales,05-08-2025,Contamination,Cleaning,23,23,46
+100266,43,Female,White,Married,Manager,21-05-2023,Contamination,Cleaning,23,23,46
+100267,61,Female,White,Single,Analyst,28-09-2023,Contamination,Cleaning,17,16,33
+100268,45,Female,Hispanic,Single,Student,09-01-2024,Religious,Praying,16,15,31
+100269,54,Female,Black,Married,Teacher,18-01-2025,Contamination,Cleaning,23,23,46
+100270,65,Male,White,Single,Nurse,05-08-2023,Contamination,Cleaning,22,23,45
+100271,18,Male,White,Married,Doctor,06-10-2024,Harm,Checking,20,22,42
+100272,40,Male,Asian,Married,Engineer,08-02-2023,Contamination,Cleaning,22,24,46
+100273,39,Female,Asian,Single,Doctor,01-04-2025,Contamination,Cleaning,22,24,46
+100274,25,Male,Black,Single,Accountant,06-02-2024,Sexual,Mental Rituals,23,24,47
+100275,40,Male,Other,Single,Doctor,28-12-2025,Harm,Checking,15,13,28
+100276,50,Male,Asian,Single,Nurse,12-09-2023,Contamination,Cleaning,17,17,34
+100277,19,Female,Black,Single,Engineer,10-03-2024,Contamination,Cleaning,23,24,47
+100278,21,Male,White,Married,Engineer,27-01-2023,Symmetry,Ordering,16,15,31
+100279,57,Female,Other,Divorced,Student,21-11-2023,Harm,Checking,16,14,30
+100280,50,Female,Hispanic,Married,Doctor,05-07-2025,Somatic,Reassurance Seeking,14,14,28
+100281,23,Male,Black,Divorced,Manager,10-07-2025,Symmetry,Ordering,20,18,38
+100282,22,Female,Hispanic,Single,Student,20-04-2025,Contamination,Cleaning,23,22,45
+100283,64,Female,Black,Married,Analyst,10-05-2023,Contamination,Cleaning,18,16,34
+100284,52,Male,Black,Married,Designer,25-01-2025,Harm,Checking,19,19,38
+100285,54,Male,White,Married,Analyst,10-09-2024,Aggressive,Checking,19,21,40
+100286,61,Female,Hispanic,Married,Doctor,15-07-2025,Contamination,Cleaning,23,22,45
+100287,52,Female,White,Single,Accountant,31-10-2025,Contamination,Cleaning,18,16,34
+100288,52,Male,Black,Single,Teacher,17-06-2024,Symmetry,Ordering,17,16,33
+100289,18,Male,Hispanic,Single,Student,16-10-2025,Contamination,Cleaning,23,22,45
+100290,27,Male,Black,Single,Manager,05-06-2024,Aggressive,Checking,24,23,47
+100291,23,Female,Black,Divorced,Sales,27-11-2024,Harm,Checking,18,17,35
+100292,28,Male,Hispanic,Married,Nurse,24-09-2024,Contamination,Cleaning,19,18,37
+100293,18,Female,Black,Divorced,Teacher,02-08-2023,Contamination,Cleaning,18,19,37
+100294,48,Male,Black,Single,Nurse,24-08-2023,Sexual,Mental Rituals,23,21,44
+100295,48,Female,Asian,Divorced,Accountant,12-09-2024,Harm,Checking,16,14,30
+100296,59,Female,Hispanic,Married,Accountant,06-09-2025,Sexual,Mental Rituals,21,20,41
+100297,55,Male,White,Married,Engineer,30-01-2024,Symmetry,Ordering,19,19,38
+100298,21,Male,White,Divorced,Sales,28-11-2023,Aggressive,Checking,23,24,47
+100299,58,Female,Hispanic,Married,Doctor,08-01-2024,Contamination,Cleaning,19,21,40
+100300,56,Female,Asian,Married,Accountant,01-09-2025,Contamination,Cleaning,17,19,36
+100301,20,Male,Hispanic,Married,Teacher,26-05-2023,Sexual,Mental Rituals,19,20,39
+100302,51,Female,White,Married,Student,09-07-2025,Somatic,Reassurance Seeking,15,16,31
+100303,20,Male,Asian,Single,Student,30-05-2024,Contamination,Cleaning,18,18,36
+100304,36,Female,Asian,Single,Accountant,21-12-2024,Contamination,Cleaning,17,17,34
+100305,48,Female,White,Single,Manager,03-07-2025,Harm,Checking,17,17,34
+100306,44,Male,Hispanic,Divorced,Sales,02-01-2023,Contamination,Cleaning,19,21,40
+100307,49,Female,Asian,Married,Accountant,18-09-2024,Aggressive,Checking,24,23,47
+100308,42,Male,Other,Married,Nurse,18-02-2024,Sexual,Mental Rituals,19,19,38
+100309,41,Female,Asian,Single,Sales,18-01-2023,Harm,Checking,17,16,33
+100310,37,Female,Asian,Divorced,Designer,04-07-2024,Harm,Checking,18,19,37
+100311,41,Male,Hispanic,Single,Student,12-03-2023,Harm,Checking,21,20,41
+100312,53,Female,Other,Divorced,Manager,21-03-2023,Somatic,Reassurance Seeking,17,15,32
+100313,33,Male,Black,Married,Designer,09-09-2024,Contamination,Cleaning,20,21,41
+100314,46,Male,White,Married,Student,10-12-2023,Harm,Checking,19,20,39
+100315,30,Male,Asian,Married,Engineer,18-12-2023,Aggressive,Checking,23,25,48
+100316,49,Male,Asian,Single,Sales,04-03-2023,Somatic,Reassurance Seeking,15,16,31
+100317,28,Male,White,Married,Doctor,20-02-2024,Aggressive,Checking,25,24,49
+100318,21,Male,Asian,Single,Accountant,14-07-2025,Somatic,Reassurance Seeking,15,15,30
+100319,30,Male,Other,Single,Manager,03-08-2023,Somatic,Reassurance Seeking,18,19,37
+100320,34,Female,Other,Divorced,Sales,17-06-2023,Contamination,Cleaning,21,23,44
+100321,60,Female,Hispanic,Single,Sales,11-06-2025,Symmetry,Ordering,18,16,34
+100322,43,Male,Hispanic,Married,Nurse,14-11-2024,Harm,Checking,17,16,33
+100323,59,Male,Asian,Married,Sales,19-10-2024,Symmetry,Ordering,16,15,31
+100324,41,Female,White,Single,Student,29-06-2025,Contamination,Cleaning,20,20,40
+100325,44,Male,Asian,Single,Student,21-04-2025,Contamination,Cleaning,23,24,47
+100326,51,Male,White,Single,Engineer,25-03-2024,Harm,Checking,15,17,32
+100327,24,Female,Asian,Single,Accountant,14-08-2023,Harm,Checking,15,14,29
+100328,35,Female,Asian,Married,Accountant,15-11-2024,Symmetry,Ordering,19,18,37
+100329,54,Male,Asian,Married,Engineer,01-12-2025,Contamination,Cleaning,21,23,44
+100330,58,Female,Asian,Single,Nurse,08-07-2023,Harm,Checking,19,20,39
+100331,39,Female,White,Single,Designer,01-09-2024,Contamination,Cleaning,18,18,36
+100332,25,Male,Asian,Single,Teacher,22-06-2023,Symmetry,Ordering,15,13,28
+100333,29,Female,Asian,Single,Student,15-12-2025,Somatic,Reassurance Seeking,14,15,29
+100334,59,Female,Black,Divorced,Designer,22-02-2025,Religious,Praying,22,24,46
+100335,59,Female,Black,Married,Engineer,28-10-2024,Harm,Checking,18,19,37
+100336,55,Female,Other,Married,Sales,12-04-2025,Harm,Checking,21,21,42
+100337,64,Female,White,Single,Designer,14-08-2024,Contamination,Cleaning,21,21,42
+100338,46,Female,Hispanic,Married,Nurse,05-07-2023,Aggressive,Checking,20,21,41
+100339,49,Male,Asian,Single,Accountant,21-11-2024,Somatic,Reassurance Seeking,19,21,40
+100340,38,Female,White,Divorced,Doctor,03-09-2023,Harm,Checking,21,23,44
+100341,42,Male,Asian,Divorced,Student,15-11-2025,Religious,Praying,20,18,38
+100342,62,Female,Other,Single,Accountant,20-02-2023,Harm,Checking,18,19,37
+100343,20,Female,White,Single,Manager,13-02-2025,Sexual,Mental Rituals,20,19,39
+100344,24,Male,White,Married,Accountant,09-12-2024,Harm,Checking,16,16,32
+100345,42,Female,Asian,Married,Doctor,08-04-2024,Contamination,Cleaning,17,15,32
+100346,40,Female,Asian,Single,Designer,25-08-2023,Contamination,Cleaning,21,20,41
+100347,32,Male,Asian,Married,Accountant,08-01-2023,Symmetry,Ordering,20,20,40
+100348,25,Male,Asian,Single,Doctor,02-06-2024,Contamination,Cleaning,17,18,35
+100349,62,Female,Asian,Married,Designer,05-05-2025,Symmetry,Ordering,19,18,37
+100350,55,Female,Black,Divorced,Nurse,26-03-2025,Religious,Praying,22,23,45
+100351,25,Female,Asian,Single,Sales,06-04-2025,Symmetry,Ordering,17,15,32
+100352,62,Male,Black,Single,Doctor,11-02-2023,Contamination,Cleaning,22,20,42
+100353,52,Female,White,Single,Doctor,01-06-2024,Contamination,Cleaning,21,23,44
+100354,52,Female,Asian,Single,Nurse,07-02-2024,Somatic,Reassurance Seeking,15,14,29
+100355,32,Female,Asian,Single,Nurse,24-06-2024,Contamination,Cleaning,20,18,38
+100356,39,Male,Black,Married,Sales,27-12-2025,Contamination,Cleaning,17,19,36
+100357,43,Male,Asian,Married,Engineer,06-06-2024,Contamination,Cleaning,21,20,41
+100358,32,Male,Asian,Single,Designer,30-04-2025,Contamination,Cleaning,21,23,44
+100359,48,Male,Black,Single,Sales,21-07-2024,Contamination,Cleaning,21,19,40
+100360,22,Female,White,Single,Manager,07-03-2023,Harm,Checking,21,23,44
+100361,23,Male,Asian,Single,Designer,09-08-2023,Somatic,Reassurance Seeking,14,15,29
+100362,48,Female,Asian,Single,Engineer,09-03-2024,Sexual,Mental Rituals,22,24,46
+100363,47,Male,Other,Single,Engineer,10-01-2024,Sexual,Mental Rituals,23,23,46
+100364,51,Male,White,Single,Analyst,14-05-2023,Harm,Checking,15,17,32
+100365,46,Male,Other,Divorced,Nurse,19-12-2024,Aggressive,Checking,21,21,42
+100366,62,Female,Asian,Divorced,Nurse,19-04-2024,Contamination,Cleaning,23,21,44
+100367,39,Female,White,Married,Sales,10-04-2023,Symmetry,Ordering,18,16,34
+100368,45,Female,Asian,Single,Teacher,12-03-2025,Aggressive,Checking,24,24,48
+100369,64,Female,White,Single,Student,21-10-2024,Religious,Praying,17,16,33
+100370,63,Female,White,Single,Nurse,31-10-2025,Religious,Praying,18,19,37
+100371,34,Male,Asian,Married,Doctor,06-05-2024,Religious,Praying,18,19,37
+100372,44,Female,Asian,Single,Teacher,09-03-2023,Contamination,Cleaning,20,20,40
+100373,24,Female,Hispanic,Married,Student,25-01-2025,Contamination,Cleaning,19,20,39
+100374,31,Female,Black,Married,Doctor,04-07-2025,Sexual,Mental Rituals,22,24,46
+100375,30,Female,White,Married,Doctor,24-11-2023,Contamination,Cleaning,23,24,47
+100376,20,Male,Black,Married,Accountant,09-05-2024,Symmetry,Ordering,17,16,33
+100377,56,Female,Asian,Single,Student,27-10-2024,Contamination,Cleaning,19,20,39
+100378,61,Female,White,Married,Teacher,11-03-2025,Contamination,Cleaning,20,21,41
+100379,52,Male,Asian,Married,Student,03-01-2024,Sexual,Mental Rituals,23,21,44
+100380,41,Female,White,Married,Doctor,28-02-2024,Harm,Checking,15,14,29
+100381,56,Female,White,Single,Teacher,05-05-2024,Contamination,Cleaning,22,24,46
+100382,53,Female,Hispanic,Single,Doctor,15-07-2024,Harm,Checking,20,20,40
+100383,47,Female,Asian,Married,Teacher,13-08-2023,Sexual,Mental Rituals,20,19,39
+100384,65,Male,White,Single,Nurse,04-07-2025,Sexual,Mental Rituals,22,22,44
+100385,42,Male,Asian,Single,Designer,23-08-2023,Symmetry,Ordering,17,17,34
+100386,30,Female,Hispanic,Single,Accountant,05-08-2023,Contamination,Cleaning,19,17,36
+100387,18,Female,Black,Single,Manager,11-07-2023,Harm,Checking,20,22,42
+100388,40,Female,Other,Married,Analyst,27-06-2023,Sexual,Mental Rituals,18,20,38
+100389,46,Female,Hispanic,Single,Accountant,22-04-2023,Contamination,Cleaning,19,19,38
+100390,61,Male,Asian,Single,Doctor,24-05-2023,Contamination,Cleaning,18,17,35
+100391,52,Female,Other,Single,Manager,15-05-2025,Symmetry,Ordering,17,16,33
+100392,49,Male,Asian,Divorced,Manager,14-02-2023,Aggressive,Checking,25,24,49
+100393,40,Male,Black,Single,Teacher,11-03-2024,Harm,Checking,17,17,34
+100394,61,Female,Hispanic,Single,Designer,23-10-2024,Contamination,Cleaning,23,22,45
+100395,24,Female,Hispanic,Divorced,Sales,14-06-2025,Contamination,Cleaning,23,23,46
+100396,65,Male,Other,Single,Accountant,25-10-2024,Religious,Praying,18,19,37
+100397,50,Male,Asian,Single,Manager,18-04-2023,Harm,Checking,19,18,37
+100398,38,Female,Hispanic,Married,Student,29-02-2024,Contamination,Cleaning,19,18,37
+100399,56,Male,Hispanic,Divorced,Designer,12-11-2025,Contamination,Cleaning,19,18,37
+100400,50,Male,Hispanic,Single,Analyst,13-07-2024,Harm,Checking,17,17,34
+100401,51,Female,White,Married,Accountant,13-04-2023,Symmetry,Ordering,15,13,28
+100402,36,Male,Asian,Single,Engineer,20-10-2025,Symmetry,Ordering,14,16,30
+100403,63,Female,Hispanic,Single,Analyst,10-09-2023,Contamination,Cleaning,22,22,44
+100404,23,Female,Other,Single,Manager,06-04-2025,Aggressive,Checking,25,24,49
+100405,23,Female,Other,Married,Manager,19-04-2024,Sexual,Mental Rituals,24,22,46
+100406,27,Female,Asian,Married,Sales,12-06-2023,Somatic,Reassurance Seeking,19,20,39
+100407,36,Female,Hispanic,Divorced,Student,05-01-2025,Contamination,Cleaning,22,23,45
+100408,44,Male,White,Married,Designer,01-01-2024,Harm,Checking,19,19,38
+100409,39,Male,Hispanic,Single,Student,06-04-2025,Contamination,Cleaning,18,18,36
+100410,21,Female,Asian,Married,Manager,07-01-2025,Contamination,Cleaning,23,21,44
+100411,25,Female,White,Single,Accountant,30-09-2023,Religious,Praying,20,21,41
+100412,42,Male,Asian,Single,Doctor,06-07-2024,Aggressive,Checking,24,22,46
+100413,55,Female,Asian,Married,Doctor,25-06-2025,Symmetry,Ordering,14,15,29
+100414,36,Female,Asian,Single,Nurse,04-02-2024,Harm,Checking,16,17,33
+100415,34,Female,Hispanic,Married,Analyst,04-08-2025,Contamination,Cleaning,23,22,45
+100416,39,Female,Hispanic,Married,Manager,22-11-2025,Symmetry,Ordering,15,17,32
+100417,57,Male,White,Married,Manager,12-05-2025,Contamination,Cleaning,18,20,38
+100418,45,Female,Other,Single,Teacher,08-11-2024,Harm,Checking,21,19,40
+100419,25,Female,White,Married,Analyst,18-07-2025,Harm,Checking,16,14,30
+100420,44,Female,White,Married,Teacher,03-07-2023,Symmetry,Ordering,19,18,37
+100421,50,Male,Asian,Divorced,Engineer,30-12-2023,Contamination,Cleaning,20,19,39
+100422,29,Male,Asian,Single,Teacher,23-04-2025,Harm,Checking,18,16,34
+100423,59,Female,White,Married,Designer,23-08-2025,Contamination,Cleaning,22,24,46
+100424,44,Male,White,Divorced,Sales,03-12-2025,Contamination,Cleaning,20,18,38
+100425,54,Male,Hispanic,Single,Accountant,22-01-2025,Sexual,Mental Rituals,18,20,38
+100426,59,Male,White,Single,Doctor,20-08-2023,Symmetry,Ordering,18,17,35
+100427,39,Male,Black,Divorced,Manager,11-12-2024,Harm,Checking,15,17,32
+100428,64,Male,White,Married,Nurse,28-11-2023,Sexual,Mental Rituals,20,19,39
+100429,32,Female,Black,Married,Teacher,22-06-2023,Sexual,Mental Rituals,23,23,46
+100430,42,Male,Black,Single,Doctor,27-08-2023,Aggressive,Checking,22,24,46
+100431,62,Male,Asian,Married,Analyst,11-02-2025,Religious,Praying,22,20,42
+100432,50,Female,Hispanic,Single,Accountant,05-08-2024,Sexual,Mental Rituals,21,21,42
+100433,28,Female,Hispanic,Married,Accountant,23-04-2024,Sexual,Mental Rituals,20,19,39
+100434,43,Female,Asian,Married,Manager,27-01-2023,Contamination,Cleaning,21,23,44
+100435,39,Female,Asian,Single,Analyst,22-01-2025,Contamination,Cleaning,17,18,35
+100436,42,Male,Asian,Married,Student,04-02-2023,Contamination,Cleaning,18,18,36
+100437,55,Male,White,Married,Sales,06-06-2023,Contamination,Cleaning,23,25,48
+100438,34,Male,Black,Married,Nurse,20-11-2024,Contamination,Cleaning,23,25,48
+100439,45,Female,Asian,Married,Manager,05-07-2025,Sexual,Mental Rituals,18,19,37
+100440,30,Male,Asian,Married,Doctor,09-12-2024,Religious,Praying,16,16,32
+100441,37,Male,Other,Single,Designer,15-05-2024,Somatic,Reassurance Seeking,16,15,31
+100442,50,Male,Other,Single,Manager,03-07-2023,Contamination,Cleaning,22,21,43
+100443,18,Female,Hispanic,Single,Accountant,04-07-2024,Harm,Checking,19,19,38
+100444,19,Female,Asian,Married,Accountant,13-10-2024,Aggressive,Checking,20,21,41
+100445,61,Female,White,Single,Student,19-03-2023,Harm,Checking,15,16,31
+100446,50,Female,Hispanic,Married,Analyst,04-04-2025,Contamination,Cleaning,22,23,45
+100447,29,Male,White,Married,Nurse,01-02-2023,Harm,Checking,17,17,34
+100448,62,Male,Hispanic,Married,Engineer,29-11-2023,Religious,Praying,20,19,39
+100449,53,Male,Asian,Single,Nurse,24-10-2024,Harm,Checking,17,17,34
+100450,47,Male,Black,Single,Student,17-04-2024,Contamination,Cleaning,19,19,38
+100451,28,Male,Black,Single,Manager,25-10-2024,Aggressive,Checking,25,24,49
+100452,47,Male,White,Married,Student,26-04-2025,Sexual,Mental Rituals,24,26,50
+100453,55,Female,White,Single,Analyst,30-03-2024,Contamination,Cleaning,18,20,38
+100454,34,Female,Asian,Married,Analyst,18-02-2024,Somatic,Reassurance Seeking,19,19,38
+100455,40,Female,Hispanic,Divorced,Doctor,06-03-2023,Somatic,Reassurance Seeking,16,16,32
+100456,43,Male,White,Married,Nurse,30-12-2024,Religious,Praying,18,17,35
+100457,49,Female,Hispanic,Married,Student,18-05-2025,Symmetry,Ordering,18,19,37
+100458,36,Female,Black,Married,Teacher,17-02-2023,Symmetry,Ordering,16,15,31
+100459,48,Male,Hispanic,Married,Teacher,14-07-2023,Sexual,Mental Rituals,23,23,46
+100460,41,Female,Black,Single,Designer,10-03-2024,Symmetry,Ordering,18,17,35
+100461,26,Male,Asian,Divorced,Analyst,31-12-2023,Religious,Praying,18,16,34
+100462,54,Male,Asian,Single,Doctor,30-07-2024,Contamination,Cleaning,23,22,45
+100463,18,Female,Black,Married,Analyst,19-01-2024,Contamination,Cleaning,21,22,43
+100464,64,Female,White,Married,Sales,08-06-2024,Contamination,Cleaning,17,18,35
+100465,27,Female,Asian,Divorced,Nurse,08-05-2024,Contamination,Cleaning,17,19,36
+100466,39,Male,White,Single,Analyst,18-10-2024,Aggressive,Checking,23,21,44
+100467,58,Female,Asian,Divorced,Doctor,08-10-2024,Symmetry,Ordering,16,17,33
+100468,36,Male,Hispanic,Married,Student,05-03-2024,Contamination,Cleaning,21,22,43
+100469,58,Male,Other,Married,Nurse,18-05-2025,Aggressive,Checking,20,18,38
+100470,58,Male,White,Married,Teacher,16-12-2025,Contamination,Cleaning,18,18,36
+100471,60,Female,White,Single,Manager,30-10-2025,Harm,Checking,20,18,38
+100472,61,Female,White,Divorced,Student,15-05-2023,Harm,Checking,17,18,35
+100473,62,Female,White,Married,Student,06-02-2025,Somatic,Reassurance Seeking,18,19,37
+100474,27,Female,Asian,Single,Nurse,13-08-2024,Sexual,Mental Rituals,24,22,46
+100475,58,Female,Black,Single,Teacher,25-05-2023,Contamination,Cleaning,20,21,41
+100476,58,Female,Asian,Single,Designer,16-10-2024,Contamination,Cleaning,18,20,38
+100477,34,Female,Asian,Single,Student,16-05-2025,Symmetry,Ordering,15,17,32
+100478,51,Female,Black,Divorced,Sales,27-08-2025,Sexual,Mental Rituals,20,18,38
+100479,45,Female,Asian,Single,Designer,28-07-2025,Contamination,Cleaning,20,22,42
+100480,42,Female,Hispanic,Single,Engineer,23-11-2025,Contamination,Cleaning,19,21,40
+100481,36,Female,Other,Single,Doctor,13-08-2025,Aggressive,Checking,22,24,46
+100482,62,Male,Asian,Single,Student,23-02-2023,Religious,Praying,17,18,35
+100483,25,Male,Hispanic,Married,Student,09-09-2025,Contamination,Cleaning,23,22,45
+100484,58,Male,Other,Single,Manager,25-05-2024,Somatic,Reassurance Seeking,14,15,29
+100485,62,Female,Asian,Single,Designer,05-06-2025,Religious,Praying,20,18,38
+100486,47,Female,Hispanic,Married,Student,09-10-2024,Somatic,Reassurance Seeking,19,17,36
+100487,39,Male,White,Single,Nurse,11-01-2025,Contamination,Cleaning,20,20,40
+100488,64,Female,White,Married,Engineer,20-07-2025,Symmetry,Ordering,18,19,37
+100489,25,Male,Asian,Single,Designer,09-06-2025,Contamination,Cleaning,21,21,42
+100490,38,Female,Other,Divorced,Analyst,25-01-2024,Sexual,Mental Rituals,19,19,38
+100491,38,Female,Asian,Married,Accountant,08-04-2025,Contamination,Cleaning,19,21,40
+100492,20,Male,Asian,Single,Doctor,18-03-2024,Contamination,Cleaning,21,21,42
+100493,23,Female,Hispanic,Single,Manager,05-08-2025,Symmetry,Ordering,20,19,39
+100494,61,Female,White,Married,Analyst,06-07-2023,Harm,Checking,17,18,35
+100495,35,Male,Hispanic,Single,Manager,06-12-2023,Contamination,Cleaning,20,22,42
+100496,35,Female,Other,Married,Manager,03-02-2024,Sexual,Mental Rituals,20,18,38
+100497,64,Female,White,Divorced,Designer,25-09-2025,Sexual,Mental Rituals,23,23,46
+100498,49,Female,Black,Married,Accountant,24-03-2025,Religious,Praying,17,16,33
+100499,28,Male,Other,Married,Sales,10-10-2023,Harm,Checking,20,18,38
+100500,45,Female,Asian,Married,Designer,19-03-2024,Symmetry,Ordering,18,19,37
+100501,24,Female,White,Single,Teacher,29-12-2025,Religious,Praying,18,16,34
+100502,42,Female,Black,Married,Engineer,04-05-2025,Sexual,Mental Rituals,23,25,48
+100503,35,Male,White,Single,Sales,02-06-2023,Contamination,Cleaning,23,21,44
+100504,45,Male,Asian,Married,Manager,18-02-2023,Religious,Praying,19,18,37
+100505,42,Male,White,Single,Student,13-05-2024,Symmetry,Ordering,14,12,26
+100506,48,Female,Black,Married,Student,05-11-2023,Harm,Checking,18,20,38
+100507,52,Female,Other,Married,Student,14-02-2024,Harm,Checking,21,22,43
+100508,22,Male,White,Married,Teacher,27-08-2024,Harm,Checking,16,15,31
+100509,33,Male,White,Married,Designer,06-09-2024,Contamination,Cleaning,22,23,45
+100510,49,Male,Asian,Married,Manager,30-06-2023,Symmetry,Ordering,18,18,36
+100511,18,Female,Other,Single,Analyst,08-06-2025,Somatic,Reassurance Seeking,14,12,26
+100512,56,Female,White,Married,Nurse,13-11-2024,Contamination,Cleaning,17,15,32
+100513,47,Female,Other,Divorced,Engineer,01-08-2023,Contamination,Cleaning,18,16,34
+100514,27,Female,Black,Single,Sales,09-01-2025,Harm,Checking,16,18,34
+100515,23,Male,Asian,Married,Nurse,04-10-2024,Aggressive,Checking,24,25,49
+100516,61,Female,White,Single,Student,08-03-2025,Contamination,Cleaning,20,19,39
+100517,40,Female,Other,Married,Analyst,23-07-2023,Contamination,Cleaning,21,23,44
+100518,30,Male,White,Single,Nurse,14-12-2023,Contamination,Cleaning,21,19,40
+100519,35,Female,White,Single,Manager,11-01-2025,Contamination,Cleaning,21,21,42
+100520,49,Female,Other,Single,Doctor,07-09-2023,Religious,Praying,18,20,38
+100521,63,Male,Hispanic,Married,Manager,04-02-2024,Contamination,Cleaning,17,15,32
+100522,44,Female,White,Married,Nurse,17-09-2024,Harm,Checking,19,19,38
+100523,31,Male,White,Single,Nurse,14-02-2024,Contamination,Cleaning,20,20,40
+100524,20,Female,Asian,Married,Teacher,26-07-2023,Harm,Checking,19,18,37
+100525,21,Male,Asian,Single,Student,18-02-2023,Aggressive,Checking,23,21,44
+100526,54,Female,Asian,Married,Designer,10-10-2025,Symmetry,Ordering,14,13,27
+100527,42,Male,Other,Married,Nurse,25-11-2024,Harm,Checking,15,14,29
+100528,52,Male,Asian,Single,Nurse,09-04-2024,Somatic,Reassurance Seeking,15,16,31
+100529,44,Female,Hispanic,Married,Sales,31-05-2024,Somatic,Reassurance Seeking,16,15,31
+100530,32,Male,Hispanic,Single,Teacher,24-01-2024,Contamination,Cleaning,19,19,38
+100531,29,Male,White,Divorced,Nurse,19-10-2023,Symmetry,Ordering,17,19,36
+100532,25,Male,White,Divorced,Analyst,27-06-2023,Religious,Praying,17,16,33
+100533,45,Male,Hispanic,Married,Sales,21-05-2023,Somatic,Reassurance Seeking,16,15,31
+100534,36,Male,Black,Single,Student,13-01-2025,Aggressive,Checking,25,24,49
+100535,38,Female,Asian,Single,Analyst,31-05-2025,Symmetry,Ordering,14,15,29
+100536,60,Female,Asian,Married,Student,03-02-2023,Sexual,Mental Rituals,22,21,43
+100537,29,Female,Asian,Divorced,Teacher,25-10-2023,Sexual,Mental Rituals,20,20,40
+100538,33,Male,Hispanic,Married,Teacher,11-02-2025,Contamination,Cleaning,19,20,39
+100539,61,Female,White,Married,Designer,02-06-2024,Contamination,Cleaning,20,18,38
+100540,19,Female,Hispanic,Married,Engineer,18-10-2025,Somatic,Reassurance Seeking,13,11,24
+100541,35,Male,Asian,Married,Doctor,09-04-2023,Contamination,Cleaning,22,22,44
+100542,52,Male,Asian,Married,Teacher,30-11-2024,Contamination,Cleaning,22,20,42
+100543,28,Female,Hispanic,Single,Designer,20-09-2023,Symmetry,Ordering,14,13,27
+100544,33,Female,White,Divorced,Manager,23-12-2023,Contamination,Cleaning,23,21,44
+100545,23,Male,Asian,Divorced,Analyst,30-01-2025,Aggressive,Checking,20,22,42
+100546,41,Female,Asian,Single,Nurse,22-12-2024,Symmetry,Ordering,20,19,39
+100547,29,Male,Black,Married,Analyst,05-03-2023,Harm,Checking,16,17,33
+100548,36,Female,Asian,Single,Nurse,11-09-2023,Aggressive,Checking,24,22,46
+100549,24,Male,White,Married,Student,28-12-2025,Somatic,Reassurance Seeking,14,14,28
+100550,27,Female,Black,Married,Nurse,30-09-2023,Harm,Checking,17,16,33
+100551,64,Female,White,Single,Doctor,18-06-2024,Harm,Checking,20,21,41
+100552,52,Female,Asian,Divorced,Accountant,07-12-2024,Religious,Praying,21,20,41
+100553,52,Male,White,Single,Analyst,25-01-2023,Contamination,Cleaning,18,17,35
+100554,30,Female,Black,Married,Analyst,06-01-2023,Somatic,Reassurance Seeking,16,15,31
+100555,56,Male,White,Divorced,Sales,13-12-2023,Harm,Checking,16,16,32
+100556,58,Male,White,Single,Analyst,11-07-2023,Contamination,Cleaning,20,22,42
+100557,30,Female,Black,Single,Manager,25-01-2025,Sexual,Mental Rituals,24,22,46
+100558,44,Male,Black,Married,Accountant,03-07-2024,Harm,Checking,21,23,44
+100559,53,Female,Asian,Married,Teacher,05-04-2023,Sexual,Mental Rituals,22,20,42
+100560,21,Female,Hispanic,Single,Engineer,06-04-2024,Contamination,Cleaning,17,19,36
+100561,43,Female,Black,Single,Engineer,01-03-2024,Somatic,Reassurance Seeking,14,12,26
+100562,49,Female,White,Married,Engineer,14-07-2024,Contamination,Cleaning,18,17,35
+100563,34,Female,Other,Divorced,Sales,13-12-2023,Aggressive,Checking,20,21,41
+100564,50,Female,Hispanic,Married,Designer,30-09-2024,Religious,Praying,19,21,40
+100565,35,Female,Asian,Married,Sales,20-09-2025,Harm,Checking,18,19,37
+100566,41,Male,Asian,Divorced,Teacher,26-08-2025,Contamination,Cleaning,17,18,35
+100567,48,Male,White,Single,Accountant,31-12-2025,Contamination,Cleaning,17,18,35
+100568,35,Male,Asian,Single,Analyst,25-05-2023,Harm,Checking,19,17,36
+100569,58,Male,Black,Married,Teacher,10-12-2024,Religious,Praying,19,19,38
+100570,38,Male,Asian,Divorced,Sales,07-09-2023,Aggressive,Checking,21,19,40
+100571,59,Female,Asian,Single,Accountant,09-10-2024,Contamination,Cleaning,20,20,40
+100572,31,Female,Asian,Single,Manager,07-12-2025,Contamination,Cleaning,22,22,44
+100573,49,Female,Black,Single,Sales,07-06-2024,Contamination,Cleaning,20,20,40
+100574,38,Male,Black,Single,Engineer,17-10-2024,Somatic,Reassurance Seeking,16,16,32
+100575,61,Female,White,Married,Accountant,21-07-2025,Contamination,Cleaning,20,22,42
+100576,55,Female,Asian,Married,Manager,19-11-2023,Harm,Checking,16,15,31
+100577,64,Male,Other,Single,Student,27-10-2024,Somatic,Reassurance Seeking,19,19,38
+100578,37,Female,Asian,Married,Nurse,12-03-2024,Contamination,Cleaning,22,21,43
+100579,48,Male,White,Single,Sales,28-10-2023,Contamination,Cleaning,23,22,45
+100580,56,Male,Black,Married,Engineer,18-09-2025,Harm,Checking,16,15,31
+100581,35,Male,White,Divorced,Designer,29-02-2024,Contamination,Cleaning,21,21,42
+100582,57,Female,Asian,Single,Accountant,28-11-2024,Religious,Praying,19,20,39
+100583,31,Male,Other,Divorced,Student,31-03-2023,Harm,Checking,18,19,37
+100584,64,Female,Hispanic,Married,Manager,12-07-2023,Somatic,Reassurance Seeking,15,13,28
+100585,32,Female,White,Married,Sales,22-02-2023,Religious,Praying,18,19,37
+100586,23,Female,Asian,Married,Engineer,11-09-2023,Contamination,Cleaning,18,19,37
+100587,23,Male,Asian,Single,Teacher,31-10-2023,Somatic,Reassurance Seeking,18,16,34
+100588,32,Male,Asian,Single,Accountant,18-10-2023,Contamination,Cleaning,21,23,44
+100589,49,Male,Asian,Single,Nurse,13-01-2023,Contamination,Cleaning,21,23,44
+100590,54,Female,White,Married,Analyst,06-09-2023,Aggressive,Checking,21,20,41
+100591,29,Female,Asian,Married,Analyst,25-08-2023,Contamination,Cleaning,17,18,35
+100592,55,Female,Black,Single,Teacher,18-07-2023,Harm,Checking,18,18,36
+100593,30,Male,Hispanic,Single,Nurse,04-06-2023,Contamination,Cleaning,20,18,38
+100594,58,Male,Asian,Single,Manager,27-07-2025,Harm,Checking,17,18,35
+100595,34,Female,Hispanic,Single,Teacher,20-03-2023,Aggressive,Checking,24,25,49
+100596,32,Male,White,Single,Analyst,29-07-2023,Contamination,Cleaning,22,23,45
+100597,49,Male,Black,Married,Manager,05-05-2024,Somatic,Reassurance Seeking,15,14,29
+100598,18,Male,Other,Married,Doctor,02-10-2023,Harm,Checking,18,17,35
+100599,51,Female,Asian,Single,Doctor,23-12-2025,Symmetry,Ordering,19,18,37
+100600,42,Male,Hispanic,Married,Nurse,16-09-2024,Harm,Checking,21,23,44
+100601,34,Female,Asian,Married,Manager,16-01-2024,Harm,Checking,21,23,44
+100602,29,Male,Hispanic,Single,Analyst,25-11-2023,Symmetry,Ordering,17,18,35
+100603,45,Female,White,Married,Doctor,24-10-2025,Somatic,Reassurance Seeking,16,16,32
+100604,63,Female,White,Single,Sales,25-08-2025,Somatic,Reassurance Seeking,13,15,28
+100605,44,Female,Black,Single,Teacher,24-02-2024,Aggressive,Checking,25,24,49
+100606,57,Male,Black,Married,Teacher,19-07-2023,Contamination,Cleaning,17,19,36
+100607,26,Male,Other,Single,Student,21-04-2025,Religious,Praying,22,23,45
+100608,63,Male,Black,Single,Analyst,13-12-2025,Aggressive,Checking,19,20,39
+100609,21,Male,Black,Single,Manager,02-02-2025,Sexual,Mental Rituals,23,21,44
+100610,57,Female,Asian,Single,Engineer,13-04-2025,Contamination,Cleaning,20,22,42
+100611,46,Female,White,Single,Student,19-05-2025,Harm,Checking,15,15,30
+100612,65,Male,Hispanic,Married,Teacher,23-08-2023,Contamination,Cleaning,18,16,34
+100613,57,Female,Asian,Married,Analyst,08-09-2024,Religious,Praying,22,22,44
+100614,62,Female,Black,Single,Analyst,18-12-2024,Harm,Checking,19,19,38
+100615,36,Female,Asian,Married,Doctor,18-11-2024,Sexual,Mental Rituals,24,25,49
+100616,60,Male,Other,Divorced,Student,24-01-2024,Harm,Checking,19,20,39
+100617,52,Female,White,Single,Analyst,17-07-2024,Contamination,Cleaning,23,21,44
+100618,35,Female,Asian,Married,Student,24-03-2023,Symmetry,Ordering,16,15,31
+100619,54,Male,Black,Single,Engineer,23-06-2024,Contamination,Cleaning,18,20,38
+100620,37,Male,White,Married,Engineer,04-10-2023,Harm,Checking,17,18,35
+100621,54,Female,Asian,Single,Student,14-07-2023,Harm,Checking,19,17,36
+100622,18,Female,Black,Married,Teacher,16-09-2024,Harm,Checking,21,22,43
+100623,42,Male,Asian,Married,Engineer,11-01-2025,Symmetry,Ordering,20,18,38
+100624,57,Male,Hispanic,Divorced,Teacher,12-09-2023,Harm,Checking,20,18,38
+100625,29,Female,White,Single,Doctor,24-04-2025,Sexual,Mental Rituals,24,26,50
+100626,27,Female,Other,Single,Doctor,21-09-2024,Contamination,Cleaning,21,20,41
+100627,31,Male,Black,Married,Accountant,06-03-2025,Contamination,Cleaning,21,22,43
+100628,26,Female,Asian,Single,Engineer,29-01-2024,Harm,Checking,16,18,34
+100629,28,Female,White,Married,Nurse,13-07-2023,Somatic,Reassurance Seeking,19,18,37
+100630,36,Male,Asian,Married,Nurse,08-05-2023,Contamination,Cleaning,19,19,38
+100631,64,Female,White,Single,Sales,10-04-2024,Harm,Checking,20,19,39
+100632,49,Male,White,Married,Teacher,11-01-2024,Somatic,Reassurance Seeking,15,16,31
+100633,39,Female,White,Married,Engineer,22-01-2025,Sexual,Mental Rituals,20,20,40
+100634,28,Male,Asian,Married,Student,27-06-2024,Aggressive,Checking,22,21,43
+100635,62,Male,White,Single,Engineer,14-06-2024,Harm,Checking,16,16,32
+100636,29,Male,White,Divorced,Doctor,08-08-2025,Contamination,Cleaning,21,22,43
+100637,52,Male,Asian,Single,Analyst,05-01-2023,Religious,Praying,20,21,41
+100638,48,Male,Hispanic,Married,Doctor,21-08-2023,Contamination,Cleaning,17,16,33
+100639,41,Female,Black,Single,Sales,13-01-2025,Harm,Checking,21,23,44
+100640,18,Male,White,Married,Doctor,11-05-2024,Sexual,Mental Rituals,18,19,37
+100641,38,Male,Asian,Married,Engineer,03-09-2024,Sexual,Mental Rituals,18,16,34
+100642,61,Female,Asian,Married,Manager,08-11-2023,Contamination,Cleaning,18,18,36
+100643,45,Male,White,Married,Teacher,23-05-2025,Contamination,Cleaning,23,25,48
+100644,43,Female,Asian,Single,Accountant,04-09-2025,Contamination,Cleaning,18,17,35
+100645,42,Female,White,Divorced,Designer,31-07-2023,Harm,Checking,15,13,28
+100646,63,Female,White,Single,Doctor,18-06-2025,Aggressive,Checking,22,22,44
+100647,44,Female,Asian,Single,Manager,30-03-2025,Religious,Praying,21,21,42
+100648,20,Male,White,Single,Doctor,31-08-2023,Sexual,Mental Rituals,20,20,40
+100649,50,Female,Black,Single,Engineer,11-06-2024,Contamination,Cleaning,17,15,32
+100650,24,Male,Black,Married,Analyst,30-01-2024,Contamination,Cleaning,21,20,41
+100651,34,Male,Asian,Married,Engineer,03-02-2025,Contamination,Cleaning,19,17,36
+100652,26,Male,Asian,Married,Teacher,24-06-2024,Somatic,Reassurance Seeking,14,15,29
+100653,46,Female,Other,Married,Manager,15-12-2023,Somatic,Reassurance Seeking,17,19,36
+100654,18,Female,Asian,Divorced,Nurse,07-03-2025,Harm,Checking,20,21,41
+100655,18,Female,Hispanic,Married,Engineer,02-08-2024,Contamination,Cleaning,22,23,45
+100656,27,Male,Asian,Single,Designer,02-12-2024,Symmetry,Ordering,20,20,40
+100657,60,Male,Hispanic,Married,Engineer,07-03-2024,Harm,Checking,21,21,42
+100658,58,Female,Other,Married,Engineer,09-09-2023,Harm,Checking,21,22,43
+100659,39,Male,Asian,Married,Teacher,07-12-2023,Contamination,Cleaning,20,21,41
+100660,30,Male,Asian,Single,Doctor,25-08-2023,Somatic,Reassurance Seeking,13,11,24
+100661,31,Female,Asian,Married,Sales,27-12-2024,Contamination,Cleaning,20,19,39
+100662,35,Male,Hispanic,Married,Designer,26-01-2023,Harm,Checking,18,18,36
+100663,29,Female,White,Divorced,Manager,23-05-2024,Contamination,Cleaning,21,22,43
+100664,27,Female,Black,Single,Nurse,07-12-2023,Contamination,Cleaning,23,21,44
+100665,39,Female,Black,Married,Nurse,11-06-2023,Symmetry,Ordering,16,17,33
+100666,26,Female,Other,Divorced,Doctor,01-09-2023,Harm,Checking,17,18,35
+100667,42,Male,Black,Married,Manager,19-03-2023,Sexual,Mental Rituals,19,18,37
+100668,35,Male,Asian,Married,Nurse,12-10-2025,Contamination,Cleaning,19,18,37
+100669,47,Female,White,Married,Sales,18-10-2025,Sexual,Mental Rituals,20,20,40
+100670,19,Female,White,Married,Sales,21-08-2023,Religious,Praying,22,24,46
+100671,51,Male,Asian,Single,Engineer,28-02-2025,Religious,Praying,19,19,38
+100672,37,Female,White,Single,Doctor,28-05-2025,Contamination,Cleaning,22,23,45
+100673,25,Female,Asian,Divorced,Doctor,14-01-2024,Harm,Checking,16,18,34
+100674,61,Female,Other,Single,Teacher,14-09-2024,Religious,Praying,22,23,45
+100675,42,Male,Hispanic,Divorced,Sales,02-07-2023,Somatic,Reassurance Seeking,18,18,36
+100676,24,Female,Black,Single,Designer,26-09-2023,Harm,Checking,15,15,30
+100677,39,Male,White,Single,Designer,13-07-2024,Harm,Checking,18,18,36
+100678,62,Male,Asian,Married,Accountant,30-08-2023,Harm,Checking,21,22,43
+100679,22,Female,White,Married,Student,28-05-2023,Sexual,Mental Rituals,23,24,47
+100680,31,Female,Asian,Single,Student,12-09-2025,Harm,Checking,19,17,36
+100681,58,Male,White,Single,Sales,12-06-2023,Aggressive,Checking,21,19,40
+100682,56,Female,Asian,Divorced,Doctor,22-04-2023,Religious,Praying,22,24,46
+100683,41,Female,White,Single,Analyst,25-10-2025,Sexual,Mental Rituals,19,21,40
+100684,61,Male,Hispanic,Married,Engineer,02-11-2024,Symmetry,Ordering,18,16,34
+100685,23,Female,Hispanic,Single,Manager,14-09-2025,Contamination,Cleaning,18,18,36
+100686,19,Male,White,Divorced,Sales,16-10-2023,Sexual,Mental Rituals,23,23,46
+100687,57,Female,Black,Married,Designer,29-03-2023,Symmetry,Ordering,17,15,32
+100688,39,Male,Hispanic,Single,Engineer,30-03-2024,Contamination,Cleaning,17,18,35
+100689,46,Female,White,Single,Doctor,14-10-2025,Sexual,Mental Rituals,24,24,48
+100690,26,Female,Hispanic,Married,Designer,17-02-2025,Sexual,Mental Rituals,23,22,45
+100691,49,Male,Asian,Single,Teacher,12-03-2025,Religious,Praying,17,15,32
+100692,18,Female,Other,Married,Manager,19-01-2025,Religious,Praying,19,21,40
+100693,58,Female,Hispanic,Single,Sales,15-12-2025,Symmetry,Ordering,18,17,35
+100694,21,Male,Asian,Married,Student,24-02-2024,Symmetry,Ordering,18,18,36
+100695,57,Female,Hispanic,Married,Doctor,03-10-2023,Harm,Checking,20,20,40
+100696,33,Female,Asian,Married,Designer,14-11-2025,Sexual,Mental Rituals,22,22,44
+100697,20,Female,Hispanic,Single,Engineer,15-01-2024,Aggressive,Checking,21,20,41
+100698,44,Female,Black,Married,Manager,05-01-2025,Contamination,Cleaning,20,21,41
+100699,53,Male,White,Divorced,Nurse,13-03-2023,Contamination,Cleaning,19,18,37
+100700,20,Male,Asian,Single,Engineer,06-09-2024,Contamination,Cleaning,17,19,36
+100701,55,Female,Black,Married,Designer,16-09-2024,Contamination,Cleaning,19,17,36
+100702,41,Female,White,Single,Student,25-04-2023,Contamination,Cleaning,22,22,44
+100703,21,Female,White,Married,Analyst,20-05-2023,Contamination,Cleaning,19,17,36
+100704,50,Male,Hispanic,Single,Doctor,17-11-2024,Religious,Praying,17,15,32
+100705,44,Female,Hispanic,Single,Designer,15-07-2024,Religious,Praying,22,24,46
+100706,43,Female,Asian,Single,Nurse,30-11-2025,Contamination,Cleaning,22,21,43
+100707,30,Male,Asian,Married,Nurse,18-01-2024,Symmetry,Ordering,19,18,37
+100708,31,Male,Hispanic,Married,Designer,31-12-2025,Symmetry,Ordering,15,14,29
+100709,23,Male,White,Divorced,Analyst,04-12-2025,Contamination,Cleaning,19,17,36
+100710,22,Female,White,Single,Engineer,13-09-2025,Harm,Checking,19,17,36
+100711,49,Female,Other,Single,Sales,17-01-2025,Aggressive,Checking,22,24,46
+100712,32,Female,Black,Single,Doctor,06-08-2025,Contamination,Cleaning,22,23,45
+100713,64,Female,White,Married,Engineer,25-04-2023,Religious,Praying,17,19,36
+100714,63,Male,White,Single,Nurse,03-02-2023,Sexual,Mental Rituals,20,22,42
+100715,19,Male,Asian,Divorced,Teacher,18-07-2023,Contamination,Cleaning,17,15,32
+100716,60,Male,White,Married,Manager,20-09-2024,Contamination,Cleaning,22,22,44
+100717,51,Male,Other,Married,Accountant,02-12-2024,Aggressive,Checking,21,21,42
+100718,37,Male,Asian,Single,Sales,21-11-2024,Contamination,Cleaning,21,21,42
+100719,65,Male,Asian,Married,Accountant,16-09-2025,Contamination,Cleaning,23,21,44
+100720,50,Male,Hispanic,Single,Designer,24-02-2025,Contamination,Cleaning,23,24,47
+100721,45,Male,White,Single,Engineer,09-04-2023,Harm,Checking,21,19,40
+100722,55,Female,Asian,Married,Teacher,26-12-2023,Symmetry,Ordering,17,19,36
+100723,21,Female,Asian,Married,Engineer,19-08-2024,Contamination,Cleaning,22,21,43
+100724,27,Female,Hispanic,Married,Student,04-11-2025,Symmetry,Ordering,20,22,42
+100725,23,Female,Hispanic,Single,Designer,25-02-2024,Sexual,Mental Rituals,21,23,44
+100726,43,Female,White,Married,Sales,10-01-2024,Religious,Praying,19,20,39
+100727,27,Female,Hispanic,Single,Teacher,01-07-2023,Aggressive,Checking,19,20,39
+100728,63,Female,Asian,Married,Doctor,27-10-2024,Harm,Checking,16,18,34
+100729,39,Female,Asian,Single,Sales,11-01-2024,Contamination,Cleaning,21,20,41
+100730,32,Male,Other,Single,Teacher,29-07-2025,Aggressive,Checking,23,24,47
+100731,36,Female,Black,Married,Manager,04-12-2023,Harm,Checking,16,16,32
+100732,56,Female,White,Divorced,Manager,19-05-2023,Symmetry,Ordering,18,20,38
+100733,29,Female,Black,Married,Teacher,06-08-2025,Contamination,Cleaning,17,18,35
+100734,44,Female,Black,Single,Manager,30-10-2024,Harm,Checking,18,18,36
+100735,40,Male,Black,Married,Engineer,07-09-2025,Aggressive,Checking,24,25,49
+100736,52,Female,White,Married,Student,28-02-2023,Harm,Checking,15,13,28
+100737,55,Female,Asian,Single,Nurse,23-08-2025,Sexual,Mental Rituals,21,22,43
+100738,21,Female,Other,Single,Accountant,22-08-2024,Religious,Praying,21,22,43
+100739,55,Male,Hispanic,Single,Manager,17-03-2023,Religious,Praying,19,19,38
+100740,51,Female,Other,Single,Sales,24-09-2025,Contamination,Cleaning,20,21,41
+100741,46,Female,White,Married,Designer,28-12-2023,Contamination,Cleaning,17,17,34
+100742,18,Female,Asian,Divorced,Teacher,05-05-2025,Contamination,Cleaning,22,20,42
+100743,18,Male,White,Single,Designer,23-12-2024,Contamination,Cleaning,18,17,35
+100744,62,Male,Hispanic,Married,Engineer,28-01-2023,Somatic,Reassurance Seeking,14,12,26
+100745,59,Male,Asian,Married,Designer,04-04-2024,Contamination,Cleaning,23,25,48
+100746,51,Male,Hispanic,Married,Engineer,20-02-2023,Harm,Checking,17,16,33
+100747,57,Male,White,Married,Engineer,02-12-2024,Somatic,Reassurance Seeking,18,20,38
+100748,25,Male,Asian,Married,Manager,26-09-2025,Contamination,Cleaning,19,19,38
+100749,64,Male,Asian,Married,Student,08-05-2024,Aggressive,Checking,24,26,50
+100750,45,Male,Black,Married,Engineer,01-11-2024,Contamination,Cleaning,22,24,46
+100751,45,Female,Asian,Single,Engineer,18-02-2024,Aggressive,Checking,19,17,36
+100752,27,Male,Hispanic,Divorced,Student,19-03-2023,Symmetry,Ordering,14,16,30
+100753,41,Male,Other,Married,Designer,28-01-2025,Harm,Checking,16,14,30
+100754,41,Male,Black,Married,Designer,30-06-2024,Contamination,Cleaning,19,21,40
+100755,30,Female,White,Single,Analyst,02-09-2025,Symmetry,Ordering,14,13,27
+100756,19,Male,White,Married,Analyst,18-02-2024,Religious,Praying,20,20,40
+100757,52,Male,Asian,Married,Doctor,18-12-2024,Aggressive,Checking,23,25,48
+100758,52,Female,White,Single,Doctor,05-05-2024,Symmetry,Ordering,17,18,35
+100759,35,Female,Asian,Single,Accountant,07-06-2023,Contamination,Cleaning,22,20,42
+100760,52,Female,Other,Divorced,Nurse,11-10-2024,Contamination,Cleaning,21,22,43
+100761,62,Female,White,Single,Student,27-04-2023,Symmetry,Ordering,16,14,30
+100762,44,Male,Other,Married,Teacher,15-03-2023,Sexual,Mental Rituals,24,22,46
+100763,64,Female,White,Divorced,Doctor,25-12-2023,Contamination,Cleaning,23,24,47
+100764,20,Male,White,Married,Manager,04-02-2023,Symmetry,Ordering,18,16,34
+100765,64,Female,Asian,Married,Sales,08-10-2025,Aggressive,Checking,21,20,41
+100766,64,Male,Asian,Single,Manager,23-04-2025,Harm,Checking,17,15,32
+100767,24,Female,Hispanic,Divorced,Sales,14-04-2025,Religious,Praying,20,20,40
+100768,47,Female,Hispanic,Single,Teacher,15-02-2023,Symmetry,Ordering,20,19,39
+100769,38,Male,Hispanic,Married,Analyst,08-08-2024,Contamination,Cleaning,19,18,37
+100770,36,Female,Asian,Single,Teacher,14-04-2023,Aggressive,Checking,19,20,39
+100771,36,Female,White,Married,Designer,19-06-2023,Aggressive,Checking,21,19,40
+100772,62,Male,Other,Single,Accountant,24-09-2024,Religious,Praying,18,16,34
+100773,45,Male,Black,Single,Doctor,19-08-2023,Aggressive,Checking,21,23,44
+100774,54,Male,Hispanic,Divorced,Analyst,06-07-2025,Contamination,Cleaning,17,15,32
+100775,22,Female,Other,Married,Designer,08-05-2025,Harm,Checking,16,15,31
+100776,58,Female,Asian,Single,Analyst,03-02-2024,Harm,Checking,16,18,34
+100777,20,Male,Hispanic,Single,Accountant,03-07-2023,Symmetry,Ordering,20,22,42
+100778,45,Male,White,Single,Analyst,30-03-2024,Symmetry,Ordering,18,16,34
+100779,20,Male,Asian,Married,Engineer,03-01-2024,Symmetry,Ordering,18,18,36
+100780,19,Female,Asian,Single,Manager,12-07-2023,Contamination,Cleaning,23,24,47
+100781,47,Male,Other,Single,Analyst,21-03-2023,Religious,Praying,22,23,45
+100782,39,Male,White,Married,Doctor,08-11-2025,Sexual,Mental Rituals,19,21,40
+100783,24,Male,Asian,Married,Sales,10-01-2025,Harm,Checking,20,22,42
+100784,47,Female,White,Married,Accountant,09-02-2024,Contamination,Cleaning,20,20,40
+100785,65,Female,Asian,Single,Accountant,24-08-2025,Contamination,Cleaning,23,21,44
+100786,36,Female,Asian,Married,Accountant,17-01-2023,Contamination,Cleaning,18,19,37
+100787,48,Male,Asian,Married,Nurse,14-12-2024,Contamination,Cleaning,17,18,35
+100788,25,Female,Black,Single,Engineer,30-03-2025,Aggressive,Checking,22,22,44
+100789,46,Female,Hispanic,Married,Designer,03-05-2024,Sexual,Mental Rituals,22,20,42
+100790,63,Female,Other,Divorced,Designer,15-11-2023,Symmetry,Ordering,19,21,40
+100791,37,Male,White,Single,Teacher,24-06-2023,Harm,Checking,19,18,37
+100792,63,Female,Hispanic,Married,Engineer,13-02-2024,Aggressive,Checking,23,24,47
+100793,32,Male,Asian,Married,Designer,21-06-2024,Harm,Checking,15,13,28
+100794,39,Male,White,Married,Engineer,23-11-2024,Contamination,Cleaning,19,20,39
+100795,32,Female,Asian,Divorced,Manager,14-06-2024,Harm,Checking,21,19,40
+100796,29,Male,Asian,Single,Sales,09-09-2023,Symmetry,Ordering,15,16,31
+100797,55,Female,White,Married,Designer,14-06-2024,Aggressive,Checking,22,21,43
+100798,62,Male,Asian,Single,Engineer,12-10-2023,Sexual,Mental Rituals,23,25,48
+100799,24,Male,White,Single,Accountant,18-08-2024,Religious,Praying,18,19,37
+100800,48,Female,Asian,Single,Designer,13-05-2025,Contamination,Cleaning,22,24,46
+100801,35,Female,Black,Single,Nurse,30-10-2024,Aggressive,Checking,25,23,48
+100802,43,Male,Asian,Divorced,Sales,17-04-2023,Harm,Checking,21,22,43
+100803,41,Female,Asian,Single,Engineer,29-10-2023,Symmetry,Ordering,16,17,33
+100804,50,Male,White,Married,Engineer,03-03-2025,Contamination,Cleaning,19,21,40
+100805,65,Female,White,Single,Analyst,08-11-2024,Harm,Checking,21,19,40
+100806,57,Female,Asian,Married,Doctor,11-04-2025,Symmetry,Ordering,14,14,28
+100807,30,Female,Other,Married,Engineer,01-08-2023,Symmetry,Ordering,14,16,30
+100808,27,Male,Hispanic,Single,Manager,14-05-2024,Somatic,Reassurance Seeking,18,19,37
+100809,53,Male,White,Married,Accountant,18-07-2024,Contamination,Cleaning,20,22,42
+100810,43,Male,White,Single,Engineer,17-02-2025,Harm,Checking,20,20,40
+100811,41,Female,Black,Divorced,Accountant,14-05-2024,Religious,Praying,16,18,34
+100812,37,Female,Asian,Single,Sales,19-04-2023,Harm,Checking,16,18,34
+100813,50,Male,Asian,Divorced,Analyst,24-05-2024,Sexual,Mental Rituals,23,22,45
+100814,46,Female,Other,Single,Manager,20-09-2024,Symmetry,Ordering,14,14,28
+100815,31,Female,White,Single,Nurse,12-11-2025,Religious,Praying,18,18,36
+100816,32,Female,Asian,Divorced,Doctor,03-09-2024,Contamination,Cleaning,19,21,40
+100817,56,Female,Other,Married,Manager,01-09-2023,Somatic,Reassurance Seeking,15,14,29
+100818,29,Male,Asian,Single,Designer,19-06-2023,Somatic,Reassurance Seeking,17,16,33
+100819,50,Female,Hispanic,Single,Sales,07-04-2024,Symmetry,Ordering,19,17,36
+100820,30,Male,White,Single,Student,24-10-2025,Symmetry,Ordering,19,17,36
+100821,33,Female,Asian,Single,Analyst,12-07-2024,Somatic,Reassurance Seeking,14,15,29
+100822,22,Male,Hispanic,Single,Student,14-03-2024,Contamination,Cleaning,21,21,42
+100823,56,Female,Asian,Single,Accountant,25-09-2025,Contamination,Cleaning,19,17,36
+100824,33,Female,Asian,Married,Nurse,08-01-2025,Contamination,Cleaning,20,20,40
+100825,49,Female,Other,Single,Engineer,24-08-2025,Contamination,Cleaning,23,22,45
+100826,48,Male,Asian,Divorced,Sales,18-03-2024,Aggressive,Checking,23,23,46
+100827,29,Male,Hispanic,Married,Student,25-03-2025,Aggressive,Checking,19,19,38
+100828,26,Male,White,Single,Doctor,03-06-2024,Contamination,Cleaning,20,19,39
+100829,19,Male,Other,Divorced,Manager,21-10-2025,Symmetry,Ordering,14,15,29
+100830,64,Female,Asian,Married,Engineer,12-11-2025,Sexual,Mental Rituals,20,22,42
+100831,56,Female,White,Single,Engineer,18-07-2025,Harm,Checking,20,21,41
+100832,62,Male,White,Married,Manager,30-05-2025,Aggressive,Checking,22,22,44
+100833,31,Male,Hispanic,Single,Accountant,28-03-2025,Symmetry,Ordering,15,17,32
+100834,23,Female,Other,Married,Doctor,23-03-2023,Harm,Checking,17,16,33
+100835,53,Male,Black,Single,Teacher,10-02-2025,Symmetry,Ordering,18,17,35
+100836,38,Male,White,Single,Analyst,25-10-2023,Symmetry,Ordering,14,15,29
+100837,36,Female,Other,Married,Doctor,06-12-2024,Religious,Praying,19,18,37
+100838,33,Female,Asian,Single,Teacher,20-06-2025,Contamination,Cleaning,23,22,45
+100839,62,Female,Hispanic,Single,Engineer,17-03-2025,Contamination,Cleaning,17,15,32
+100840,54,Female,White,Married,Manager,03-04-2025,Religious,Praying,20,19,39
+100841,42,Male,White,Married,Analyst,03-09-2025,Aggressive,Checking,20,20,40
+100842,46,Male,Other,Single,Manager,29-06-2025,Contamination,Cleaning,18,18,36
+100843,62,Male,Asian,Single,Sales,10-07-2024,Symmetry,Ordering,17,18,35
+100844,22,Female,Black,Single,Sales,12-05-2025,Harm,Checking,19,18,37
+100845,22,Male,White,Single,Student,22-03-2025,Harm,Checking,21,21,42
+100846,57,Male,White,Married,Designer,17-02-2024,Sexual,Mental Rituals,23,22,45
+100847,37,Male,Asian,Single,Engineer,02-06-2024,Religious,Praying,22,23,45
+100848,35,Female,Hispanic,Married,Manager,05-06-2023,Somatic,Reassurance Seeking,13,11,24
+100849,28,Male,Asian,Married,Analyst,02-08-2025,Harm,Checking,18,17,35
+100850,46,Female,Asian,Married,Doctor,10-05-2024,Contamination,Cleaning,23,21,44
+100851,29,Female,Other,Single,Student,01-05-2025,Aggressive,Checking,22,21,43
+100852,34,Male,Asian,Single,Teacher,17-01-2023,Symmetry,Ordering,15,17,32
+100853,24,Female,Other,Single,Designer,01-03-2023,Sexual,Mental Rituals,20,18,38
+100854,20,Male,Other,Married,Manager,28-02-2024,Contamination,Cleaning,23,23,46
+100855,46,Male,White,Single,Engineer,01-03-2023,Harm,Checking,20,18,38
+100856,65,Male,Asian,Divorced,Engineer,20-06-2025,Symmetry,Ordering,14,16,30
+100857,63,Male,Black,Divorced,Manager,05-08-2024,Somatic,Reassurance Seeking,14,12,26
+100858,42,Male,Asian,Married,Analyst,23-08-2023,Harm,Checking,19,18,37
+100859,37,Male,Asian,Married,Student,10-02-2025,Religious,Praying,19,17,36
+100860,60,Female,White,Single,Designer,14-06-2023,Somatic,Reassurance Seeking,13,11,24
+100861,20,Male,White,Single,Analyst,11-06-2024,Contamination,Cleaning,22,20,42
+100862,47,Male,Hispanic,Married,Doctor,09-08-2024,Harm,Checking,17,15,32
+100863,54,Female,Black,Married,Analyst,11-03-2023,Harm,Checking,16,16,32
+100864,65,Female,Asian,Married,Doctor,14-12-2025,Contamination,Cleaning,18,20,38
+100865,22,Male,Black,Married,Student,04-09-2023,Symmetry,Ordering,19,19,38
+100866,58,Female,White,Married,Teacher,31-01-2025,Contamination,Cleaning,23,25,48
+100867,48,Male,Hispanic,Divorced,Engineer,23-11-2024,Symmetry,Ordering,17,19,36
+100868,48,Male,Other,Single,Designer,08-08-2025,Harm,Checking,17,19,36
+100869,48,Female,Hispanic,Single,Engineer,28-12-2024,Symmetry,Ordering,15,13,28
+100870,22,Male,Asian,Married,Manager,25-12-2023,Symmetry,Ordering,20,22,42
+100871,47,Female,Hispanic,Single,Manager,01-01-2024,Contamination,Cleaning,17,15,32
+100872,19,Female,Black,Married,Manager,20-10-2023,Harm,Checking,21,22,43
+100873,20,Female,White,Divorced,Nurse,01-03-2023,Aggressive,Checking,21,19,40
+100874,31,Male,White,Married,Engineer,16-10-2023,Sexual,Mental Rituals,24,26,50
+100875,57,Male,Asian,Single,Accountant,15-05-2025,Contamination,Cleaning,19,17,36
+100876,49,Male,Black,Single,Teacher,07-02-2025,Sexual,Mental Rituals,23,23,46
+100877,40,Male,Other,Married,Teacher,29-03-2023,Contamination,Cleaning,23,23,46
+100878,54,Male,Hispanic,Single,Engineer,25-05-2023,Harm,Checking,17,17,34
+100879,39,Female,Asian,Married,Manager,19-05-2023,Contamination,Cleaning,23,25,48
+100880,30,Female,Black,Single,Sales,09-08-2025,Harm,Checking,20,22,42
+100881,55,Female,White,Married,Designer,04-11-2024,Religious,Praying,21,20,41
+100882,58,Male,White,Single,Doctor,18-04-2025,Sexual,Mental Rituals,24,25,49
+100883,32,Female,Hispanic,Single,Designer,30-11-2023,Symmetry,Ordering,14,14,28
+100884,58,Female,Other,Married,Student,30-03-2023,Harm,Checking,19,18,37
+100885,60,Female,Hispanic,Single,Engineer,26-02-2025,Somatic,Reassurance Seeking,13,14,27
+100886,19,Male,Hispanic,Single,Accountant,11-11-2025,Sexual,Mental Rituals,21,22,43
+100887,60,Male,Hispanic,Married,Analyst,26-07-2023,Contamination,Cleaning,20,19,39
+100888,44,Male,Asian,Married,Student,18-06-2025,Symmetry,Ordering,14,15,29
+100889,44,Female,Black,Single,Doctor,08-01-2023,Contamination,Cleaning,18,19,37
+100890,32,Female,Asian,Married,Manager,13-08-2025,Contamination,Cleaning,20,18,38
+100891,30,Female,Hispanic,Single,Sales,10-08-2024,Somatic,Reassurance Seeking,16,17,33
+100892,26,Female,Asian,Single,Nurse,21-07-2025,Harm,Checking,19,17,36
+100893,48,Female,Hispanic,Married,Doctor,09-02-2025,Contamination,Cleaning,22,20,42
+100894,26,Female,White,Married,Analyst,05-09-2025,Symmetry,Ordering,14,12,26
+100895,39,Female,White,Single,Manager,01-07-2025,Symmetry,Ordering,15,15,30
+100896,54,Male,Asian,Married,Accountant,04-11-2023,Somatic,Reassurance Seeking,13,13,26
+100897,42,Male,White,Married,Analyst,12-06-2025,Religious,Praying,22,21,43
+100898,46,Female,Asian,Single,Manager,29-04-2023,Harm,Checking,15,16,31
+100899,57,Female,Asian,Divorced,Student,24-09-2025,Contamination,Cleaning,19,19,38
+100900,44,Female,Black,Single,Nurse,30-05-2024,Harm,Checking,17,18,35
+100901,44,Female,White,Married,Designer,26-03-2025,Sexual,Mental Rituals,24,24,48
+100902,54,Female,White,Single,Accountant,01-12-2024,Contamination,Cleaning,20,20,40
+100903,50,Female,Black,Married,Sales,11-10-2024,Aggressive,Checking,24,24,48
+100904,46,Male,Hispanic,Single,Sales,22-04-2025,Symmetry,Ordering,17,19,36
+100905,52,Female,Hispanic,Single,Engineer,17-08-2025,Religious,Praying,16,14,30
+100906,33,Male,Black,Single,Sales,21-04-2023,Sexual,Mental Rituals,22,23,45
+100907,44,Female,White,Married,Accountant,16-12-2024,Sexual,Mental Rituals,20,21,41
+100908,41,Female,Asian,Married,Analyst,13-05-2024,Harm,Checking,15,14,29
+100909,60,Male,Asian,Married,Student,18-06-2025,Aggressive,Checking,25,26,51
+100910,44,Female,Black,Single,Manager,16-10-2025,Religious,Praying,16,18,34
+100911,40,Male,Black,Single,Teacher,01-11-2023,Contamination,Cleaning,18,18,36
+100912,29,Male,Asian,Married,Manager,18-01-2023,Harm,Checking,17,16,33
+100913,34,Female,White,Single,Designer,13-02-2024,Symmetry,Ordering,18,20,38
+100914,38,Male,Other,Married,Designer,19-10-2024,Symmetry,Ordering,20,18,38
+100915,65,Female,White,Married,Designer,08-01-2025,Contamination,Cleaning,21,20,41
+100916,26,Female,Asian,Single,Manager,12-11-2024,Harm,Checking,20,21,41
+100917,45,Male,Hispanic,Single,Analyst,24-06-2023,Contamination,Cleaning,22,22,44
+100918,24,Female,White,Married,Doctor,16-03-2024,Contamination,Cleaning,23,24,47
+100919,48,Male,Hispanic,Married,Teacher,12-08-2023,Symmetry,Ordering,16,14,30
+100920,24,Female,Asian,Married,Designer,24-01-2025,Aggressive,Checking,20,21,41
+100921,60,Female,White,Married,Sales,01-08-2025,Harm,Checking,19,18,37
+100922,21,Male,Asian,Married,Doctor,24-02-2025,Religious,Praying,19,18,37
+100923,20,Male,Asian,Single,Teacher,29-10-2024,Sexual,Mental Rituals,23,24,47
+100924,58,Male,Asian,Single,Doctor,12-03-2025,Somatic,Reassurance Seeking,17,15,32
+100925,49,Female,Black,Single,Student,21-09-2024,Sexual,Mental Rituals,24,22,46
+100926,20,Female,Hispanic,Married,Engineer,03-03-2024,Symmetry,Ordering,16,15,31
+100927,52,Female,White,Divorced,Nurse,07-01-2024,Harm,Checking,21,22,43
+100928,37,Female,Asian,Married,Engineer,02-12-2025,Harm,Checking,16,16,32
+100929,62,Female,Hispanic,Divorced,Designer,04-09-2023,Contamination,Cleaning,18,19,37
+100930,21,Male,Asian,Single,Doctor,30-12-2024,Religious,Praying,19,17,36
+100931,55,Female,Other,Married,Engineer,24-09-2023,Sexual,Mental Rituals,23,23,46
+100932,41,Male,Black,Single,Analyst,26-02-2024,Contamination,Cleaning,23,23,46
+100933,39,Female,Asian,Married,Accountant,31-05-2024,Sexual,Mental Rituals,22,24,46
+100934,29,Male,Asian,Divorced,Sales,07-04-2023,Contamination,Cleaning,20,20,40
+100935,36,Male,Black,Married,Nurse,13-03-2023,Contamination,Cleaning,17,16,33
+100936,50,Female,White,Single,Engineer,25-08-2023,Contamination,Cleaning,17,19,36
+100937,49,Male,Asian,Divorced,Doctor,28-09-2025,Religious,Praying,16,17,33
+100938,51,Female,Asian,Married,Student,21-12-2024,Contamination,Cleaning,17,17,34
+100939,33,Female,Hispanic,Married,Manager,18-05-2025,Symmetry,Ordering,20,18,38
+100940,64,Male,Hispanic,Married,Sales,29-08-2025,Sexual,Mental Rituals,22,23,45
+100941,60,Female,Other,Single,Doctor,28-03-2024,Religious,Praying,18,17,35
+100942,26,Female,Asian,Married,Analyst,21-09-2025,Contamination,Cleaning,22,24,46
+100943,24,Male,Black,Divorced,Analyst,31-12-2023,Harm,Checking,21,23,44
+100944,19,Female,Asian,Married,Teacher,18-01-2023,Symmetry,Ordering,19,19,38
+100945,36,Female,White,Single,Student,24-02-2025,Contamination,Cleaning,19,19,38
+100946,47,Male,Hispanic,Single,Sales,09-01-2023,Sexual,Mental Rituals,18,19,37
+100947,59,Female,White,Single,Teacher,22-03-2024,Sexual,Mental Rituals,24,25,49
+100948,23,Male,Black,Single,Teacher,05-09-2025,Harm,Checking,20,21,41
+100949,42,Male,White,Single,Analyst,18-08-2024,Sexual,Mental Rituals,20,18,38
+100950,38,Female,Hispanic,Married,Sales,22-08-2025,Religious,Praying,19,21,40
+100951,59,Female,Asian,Married,Analyst,01-12-2023,Symmetry,Ordering,15,13,28
+100952,20,Female,Hispanic,Divorced,Sales,27-09-2023,Contamination,Cleaning,19,18,37
+100953,24,Female,White,Single,Nurse,05-03-2023,Somatic,Reassurance Seeking,17,18,35
+100954,61,Female,Asian,Single,Doctor,28-05-2025,Contamination,Cleaning,17,16,33
+100955,38,Female,Black,Single,Sales,06-04-2025,Harm,Checking,15,15,30
+100956,30,Male,White,Married,Student,12-11-2024,Somatic,Reassurance Seeking,13,13,26
+100957,20,Female,Hispanic,Married,Student,11-02-2024,Religious,Praying,16,18,34
+100958,44,Female,White,Single,Accountant,18-12-2023,Somatic,Reassurance Seeking,18,19,37
+100959,54,Female,White,Married,Manager,15-11-2024,Contamination,Cleaning,21,21,42
+100960,48,Male,White,Divorced,Nurse,22-08-2025,Aggressive,Checking,21,20,41
+100961,59,Female,Other,Married,Manager,13-01-2025,Religious,Praying,20,19,39
+100962,54,Male,Asian,Married,Accountant,03-06-2024,Harm,Checking,19,21,40
+100963,44,Female,Hispanic,Divorced,Analyst,15-10-2024,Contamination,Cleaning,17,19,36
+100964,61,Male,White,Married,Designer,30-01-2024,Symmetry,Ordering,14,13,27
+100965,20,Female,Hispanic,Single,Designer,21-07-2024,Aggressive,Checking,19,17,36
+100966,44,Female,White,Single,Nurse,24-12-2024,Harm,Checking,15,16,31
+100967,31,Female,Black,Single,Sales,07-06-2025,Harm,Checking,19,18,37
+100968,19,Female,Asian,Married,Analyst,12-04-2025,Contamination,Cleaning,21,19,40
+100969,22,Female,Asian,Single,Doctor,21-02-2023,Harm,Checking,18,16,34
+100970,28,Female,Asian,Married,Teacher,02-03-2023,Religious,Praying,22,23,45
+100971,26,Female,White,Married,Accountant,23-04-2025,Symmetry,Ordering,20,20,40
+100972,24,Male,White,Single,Analyst,05-06-2024,Sexual,Mental Rituals,20,19,39
+100973,35,Female,Asian,Married,Engineer,20-05-2025,Contamination,Cleaning,17,17,34
+100974,21,Female,White,Married,Accountant,11-09-2024,Sexual,Mental Rituals,23,25,48
+100975,40,Female,Asian,Single,Engineer,19-07-2025,Sexual,Mental Rituals,19,19,38
+100976,19,Female,Other,Married,Teacher,07-03-2025,Contamination,Cleaning,20,22,42
+100977,40,Female,Asian,Married,Teacher,08-02-2023,Aggressive,Checking,22,20,42
+100978,25,Female,Asian,Married,Student,21-12-2024,Contamination,Cleaning,22,24,46
+100979,56,Male,White,Single,Student,31-07-2024,Aggressive,Checking,20,19,39
+100980,23,Female,White,Divorced,Designer,08-06-2025,Somatic,Reassurance Seeking,16,16,32
+100981,22,Female,White,Married,Teacher,27-01-2023,Contamination,Cleaning,19,18,37
+100982,31,Female,Black,Single,Student,09-02-2024,Aggressive,Checking,25,25,50
+100983,28,Male,Asian,Single,Designer,06-06-2023,Harm,Checking,15,14,29
+100984,30,Male,Asian,Married,Sales,18-01-2024,Harm,Checking,17,17,34
+100985,38,Female,Black,Married,Engineer,18-08-2023,Symmetry,Ordering,18,16,34
+100986,62,Male,Asian,Single,Manager,28-07-2024,Contamination,Cleaning,17,19,36
+100987,34,Female,Asian,Married,Manager,30-04-2024,Contamination,Cleaning,21,20,41
+100988,46,Male,White,Married,Analyst,15-02-2025,Sexual,Mental Rituals,19,19,38
+100989,42,Male,Asian,Married,Student,23-04-2025,Symmetry,Ordering,19,21,40
+100990,41,Male,Asian,Married,Analyst,12-03-2024,Religious,Praying,22,22,44
+100991,45,Male,White,Divorced,Analyst,25-04-2023,Contamination,Cleaning,20,20,40
+100992,63,Male,Other,Divorced,Sales,15-08-2023,Harm,Checking,21,21,42
+100993,45,Male,White,Single,Engineer,02-12-2024,Harm,Checking,16,16,32
+100994,38,Female,White,Married,Accountant,14-05-2025,Symmetry,Ordering,15,17,32
+100995,56,Female,White,Single,Sales,04-12-2023,Harm,Checking,15,13,28
+100996,58,Female,Hispanic,Divorced,Designer,26-06-2025,Somatic,Reassurance Seeking,18,18,36
+100997,59,Female,Other,Single,Engineer,09-12-2025,Harm,Checking,20,20,40
+100998,21,Female,Asian,Single,Engineer,17-04-2024,Symmetry,Ordering,16,17,33
+100999,26,Male,Hispanic,Married,Engineer,03-11-2024,Symmetry,Ordering,17,18,35
+101000,31,Female,White,Married,Manager,25-03-2024,Symmetry,Ordering,18,18,36
