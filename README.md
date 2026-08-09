@@ -55,7 +55,7 @@ The Power BI dashboard provides interactive filters for:
 
 ## 📊 Power BI Dashboard
 
-![Healthcare Analytics Dashboard](PowerBI/Dashboard.png)
+![Healthcare Analytics Dashboard](HealthcareDashboard.PNG)
 
 ## 🎯 Objective
 
